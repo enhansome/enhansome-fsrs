@@ -1,0 +1,710 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v6) + Optimizer: py-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-09T04:35:03Z",
+                "owner": "open-spaced-repetition",
+                "repo": "py-fsrs",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Optimizer (v6): fsrs-optimizer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-06T04:58:58Z",
+                "owner": "open-spaced-repetition",
+                "repo": "fsrs-optimizer",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Optimizer (v6): fsrs-rs-python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-10T02:44:23Z",
+                "owner": "open-spaced-repetition",
+                "repo": "fsrs-rs-python",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): rs-fsrs-python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2024-10-18T17:00:12Z",
+                "owner": "open-spaced-repetition",
+                "repo": "rs-fsrs-python",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[Deprecated] Optimizer: fsrs-optimizer-tiny",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2023-09-05T09:02:33Z",
+                "owner": "open-spaced-repetition",
+                "repo": "fsrs-optimizer-tiny",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v6) + Optimizer: fsrs-rs",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Run in browsers: fsrs-browser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Rust",
+                    "last_commit": "2026-06-14T00:57:01Z",
+                    "owner": "open-spaced-repetition",
+                    "repo": "fsrs-browser",
+                    "stars": 53
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-06T15:48:47Z",
+                "owner": "open-spaced-repetition",
+                "repo": "fsrs-rs",
+                "stars": 410
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): rs-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-07-20T17:03:02Z",
+                "owner": "open-spaced-repetition",
+                "repo": "rs-fsrs",
+                "stars": 49
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TypeScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v6): ts-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T13:42:11Z",
+                "owner": "open-spaced-repetition",
+                "repo": "ts-fsrs",
+                "stars": 754
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): go-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-25T14:51:39Z",
+                "owner": "open-spaced-repetition",
+                "repo": "go-fsrs",
+                "stars": 142
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): rs-fsrs-java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-02-03T20:57:58Z",
+                "owner": "open-spaced-repetition",
+                "repo": "rs-fsrs-java",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Scala",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v6): fsrs4s",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Scala",
+                "last_commit": "2026-03-13T09:01:02Z",
+                "owner": "jwbargsten",
+                "repo": "fsrs4s",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): rs-fsrs-c",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2025-06-11T09:52:23Z",
+                "owner": "open-spaced-repetition",
+                "repo": "rs-fsrs-c",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Nodejs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): rs-fsrs-nodejs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-01-23T10:52:39Z",
+                "owner": "open-spaced-repetition",
+                "repo": "rs-fsrs-nodejs",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dart",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v4.5): dart-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dart",
+                "last_commit": "2025-06-20T05:54:09Z",
+                "owner": "open-spaced-repetition",
+                "repo": "dart-fsrs",
+                "stars": 62
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Swift",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): swift-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-05-25T10:24:17Z",
+                "owner": "open-spaced-repetition",
+                "repo": "swift-fsrs",
+                "stars": 96
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Clojure/ClojureScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v4): cljc-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Clojure",
+                "last_commit": "2025-09-25T01:38:18Z",
+                "owner": "open-spaced-repetition",
+                "repo": "cljc-fsrs",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v4): rb-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-04-26T17:57:34Z",
+                "owner": "open-spaced-repetition",
+                "repo": "rb-fsrs",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Kotlin",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v6): FSRS-Kotlin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2025-08-07T13:34:38Z",
+                "owner": "open-spaced-repetition",
+                "repo": "FSRS-Kotlin",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scheduler (v4): android-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2023-10-17T14:37:27Z",
+                "owner": "open-spaced-repetition",
+                "repo": "android-fsrs",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Elixir",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v4): ex_fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Elixir",
+                "last_commit": "2025-05-13T08:11:40Z",
+                "owner": "open-spaced-repetition",
+                "repo": "ex_fsrs",
+                "stars": 26
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OCaml",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v5): ocaml-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "OCaml",
+                "last_commit": "2025-05-24T17:37:14Z",
+                "owner": "chaosarium",
+                "repo": "ocaml-fsrs",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Lisp",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scheduler (v6): lisp-fsrs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Common Lisp",
+                "last_commit": "2025-11-19T16:31:16Z",
+                "owner": "open-spaced-repetition",
+                "repo": "lisp-fsrs",
+                "stars": 31
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Implementation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "General Flashcard"
+    },
+    {
+      "description": "Discito is a native iOS flashcard app built around FSRS-6, with iCloud sync, on-device AI card generation, lecture-audio-to-flashcards, image occlusion authoring, and full-fidelity import/export. One-time purchase, no subscription.\nDiscito uses its own Swift FSRS-6 port (validated for parity against py-fsrs), with the parameter optimizer bridging fsrs-rs via swift-bridge FFI.",
+      "items": [],
+      "title": "Discito"
+    },
+    {
+      "description": "A simple yet powerful spaced repetition system designed to help you remember more. It uses AI to automatically generate cards and FSRS-5 to schedule your reviews.\nRember uses ts-fsrs.",
+      "items": [],
+      "title": "Rember"
+    },
+    {
+      "description": "Revu is a local-first spaced repetition app for macOS built with SwiftUI. It features a Notion-inspired interface, Anki import (.apkg/.colpkg), study guides, exams, and workload forecasting.\nRevu uses swift-fsrs.",
+      "items": [],
+      "title": "Revu"
+    },
+    {
+      "description": "SpacedCards is an iOS flashcard app which forces students to review cards to unlock scrolltime. It works offline, is customizable & has AI for generating cards (images, audio or PDFs).\nSpacedCards uses dart-fsrs.",
+      "items": [],
+      "title": "SpacedCards"
+    },
+    {
+      "description": "A CLI and MCP server for spaced repetition with .apkg import/export. Designed for scripting and AI agent workflows, no GUI required. Available on PyPI.\nspacedrep uses py-fsrs.",
+      "items": [],
+      "title": "spacedrep"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Note-taking"
+    },
+    {
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. It focuses on privacy, longevity, and user control.\nLogseq uses cljc-fsrs in its database version.",
+      "items": [],
+      "title": "Logseq"
+    },
+    {
+      "description": "A personal notes, journaling, knowledge base, and project management application that allows the user to easily visualize relationships between information in graph form. Connect your notes via hyperlinks and install many community plugins made for Obsidian.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HiNote",
+          "description": "is a powerful Obsidian extension that helps you add comments to highlighted notes, use AI for thinking, and FSRS-6 for memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T02:33:44Z",
+            "owner": "CatMuse",
+            "repo": "HiNote",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-spaced-repetition-recall",
+          "description": "is a modified version of obsidian-spaced-repetition and merging recall plugin to use seperate json data file. It uses FSRS-6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T04:44:56Z",
+            "owner": "open-spaced-repetition",
+            "repo": "obsidian-spaced-repetition-recall",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LearnKit",
+          "description": "helps you remember what you write. It brings flashcards, note review, tests, and AI-assisted study tools into Obsidian, so your vault becomes a place to learn, not just store information. It uses FSRS-6 for spaced repetition scheduling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T06:40:51Z",
+            "owner": "ctrlaltwill",
+            "repo": "LearnKit",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "True Recall",
+          "description": "is a next-gen spaced repetition system for Obsidian with AI card generation, local-first SQLite storage, Anki import/export, projects system, and comprehensive analytics. It uses FSRS-6 via ts-fsrs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:18:50Z",
+            "owner": "pieralukasz",
+            "repo": "true-recall",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Obsidian"
+    },
+    {
+      "description": "Multiplatform note-taking application with a simple and streamlined process of creating flashcards. Has an active community with student-made materials for exam preparation. Available for offline and online usage.\nRemNote integrated FSRS-4.5 into its scheduling system in release 1.16.",
+      "items": [],
+      "title": "RemNote"
+    },
+    {
+      "description": "SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.\nSiYuan's uses FSRS-5: riff",
+      "items": [],
+      "title": "SiYuan"
+    },
+    {
+      "description": "TiddlyWiki is a customizable single HTML file personal wiki for creating interlinked notes. Its open-source nature and plugin ecosystem make it adaptable for various uses, from project management to knowledge systems. With the FSRS plugin, TiddlyWiki can also be used as a flashcard app for learning and memorization.\nFSRS is available as a fork of the Tidme plugin for TiddlyWiki: fsrs4tw",
+      "items": [],
+      "title": "TiddlyWiki"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Incremental Reading"
+    },
+    {
+      "description": "Foliole is an approachable incremental reading app for making reading actually complete.\nOpen source, open data, local first.\nNative incremental reading with integrated FSRS scheduling, powered by ts-fsrs.",
+      "items": [],
+      "title": "Foliole"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Specialized Flashcard"
+    },
+    {
+      "description": "Mobile and web chess study application that combines multiple resources from YouTube, Lichess, ChessBase, and books to create a custom personal chess repertoire.\nChessbook overhauled its spaced repetition system using FSRS-4.5.",
+      "items": [],
+      "title": "Chessbook"
+    },
+    {
+      "description": "Intended for language learning, HSRS continuously refreshes card content using a system of parameterized grammar cards. Individual reviews of a card reschedule all sub-cards in the parameter tree using bayesian statistics to estimate the contributions of each. Changes to stability from FSRS are interpolated in retrievability-space according to their probability.\nUsed to power grsly, a tool for learning Japanese grammar.",
+      "items": [],
+      "title": "HSRS"
+    },
+    {
+      "description": "KaChiKa is an AI-powered photo-to-flashcard app for language learners. Snap a photo of any object — a coffee cup, a cat, a street sign — and KaChiKa extracts the vocabulary, generates real-world example sentences, and schedules reviews using FSRS.\nSupports English, Japanese, French, Korean, Italian, Spanish, and Chinese. All photos are stored locally on device for privacy. Available on iOS, Android, and APK.",
+      "items": [],
+      "title": "KaChiKa"
+    },
+    {
+      "description": "LeetFlash is a flashcard review app for review LeetCode algorithm questions. It leverages TS-FSRS for scheduling flashcards.\nThe app consists of a Chrome extension, website for now. A mobile app is under development. It can automatically capture LeetCode question submissions and schedule your next review using an Anki-like experience. It supports both Leetcode and Leetcode China (力扣).",
+      "items": [],
+      "title": "LeetFlash"
+    },
+    {
+      "description": "Rhythm Word is an iOS vocabulary learning app that helps users build and retain English vocabulary through AI-generated context sentences and spaced repetition.\nRhythm Word implements FSRS-4.5 for intelligent review scheduling.",
+      "items": [],
+      "title": "Rhythm Word"
+    },
+    {
+      "description": "WordVault is a word study app for Scrabble/Boggle/other word games. It uses the Go FSRS library for scheduling words, which show up as scrambled letters for the user to solve. This should hopefully be significally more efficient than the Leitner cardbox system previously in use in some word study apps.\nSee announcement blog post.",
+      "items": [],
+      "title": "WordVault"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Algorithm"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Benchmark: open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-03T17:39:46Z",
+            "owner": "open-spaced-repetition",
+            "repo": "srs-benchmark",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Math:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Algorithm · open-spaced-repetition/awesome-fsrs Wiki",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-11T06:17:48Z",
+                "owner": "open-spaced-repetition",
+                "repo": "awesome-fsrs",
+                "stars": 649
+              }
+            }
+          ]
+        }
+      ],
+      "title": "FSRS"
+    },
+    {
+      "description": "An algorithm made particularly for second language acquisition. The HLR model marries psycholinguistic theory with modern machine learning techniques, estimating the \"half-life\" of words (and potentially any other item or fact) in a student's long-term memory.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub repository: duolingo/halflife-regression",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-20T08:26:18Z",
+            "owner": "duolingo",
+            "repo": "halflife-regression",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper: A Trainable Spaced Repetition Model for Language Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-20T08:26:18Z",
+            "owner": "duolingo",
+            "repo": "halflife-regression",
+            "stars": 575
+          }
+        }
+      ],
+      "title": "HLR"
+    },
+    {
+      "description": "Leitner sytem sorts flashcard into groups according to how well the learner knows each one in Leitner's learning box. The learners try to recall the answer written on a flashcard. If they succeed, the card is sent to the next box. If they fail, the card is sent back to the first box. In each successive box, the amount of time before the learner is required to revisit the cards increases. (More: Wikipedia)",
+      "items": [],
+      "title": "Leitner System"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:11:59.370Z",
+    "original_repository": "open-spaced-repetition/awesome-fsrs",
+    "original_repository_sha": "11324c0969bfb671efd29b15c77d383ecede39f7",
+    "enhanced_repository": "enhansome/enhansome-fsrs",
+    "enhanced_repository_description": null,
+    "title": "Awesome FSRS with stars"
+  }
+}
