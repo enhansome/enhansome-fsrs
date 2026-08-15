@@ -19,7 +19,7 @@
                 "last_commit": "2026-08-09T04:35:03Z",
                 "owner": "open-spaced-repetition",
                 "repo": "py-fsrs",
-                "stars": 469
+                "stars": 470
               }
             },
             {
@@ -101,7 +101,7 @@
                     "last_commit": "2026-06-14T00:57:01Z",
                     "owner": "open-spaced-repetition",
                     "repo": "fsrs-browser",
-                    "stars": 53
+                    "stars": 54
                   }
                 }
               ],
@@ -143,10 +143,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T11:45:50Z",
+                "last_commit": "2026-08-15T10:30:54Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 754
+                "stars": 757
               }
             }
           ]
@@ -542,7 +542,7 @@
             "last_commit": "2026-08-13T06:18:50Z",
             "owner": "pieralukasz",
             "repo": "true-recall",
-            "stars": 56
+            "stars": 57
           }
         }
       ],
@@ -651,7 +651,7 @@
                 "last_commit": "2026-08-11T06:17:48Z",
                 "owner": "open-spaced-repetition",
                 "repo": "awesome-fsrs",
-                "stars": 650
+                "stars": 651
               }
             }
           ]
@@ -700,7 +700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:08:03.802Z",
+    "last_updated": "2026-08-15T10:38:43.886Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_sha": "11324c0969bfb671efd29b15c77d383ecede39f7",
     "enhanced_repository": "enhansome/enhansome-fsrs",
