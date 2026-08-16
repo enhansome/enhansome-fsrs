@@ -143,7 +143,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T10:30:54Z",
+                "last_commit": "2026-08-16T02:39:16Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
                 "stars": 757
@@ -356,7 +356,7 @@
                 "last_commit": "2025-08-07T13:34:38Z",
                 "owner": "open-spaced-repetition",
                 "repo": "FSRS-Kotlin",
-                "stars": 23
+                "stars": 24
               }
             },
             {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-07T02:33:44Z",
             "owner": "CatMuse",
             "repo": "HiNote",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -632,7 +632,7 @@
             "last_commit": "2026-08-03T17:39:46Z",
             "owner": "open-spaced-repetition",
             "repo": "srs-benchmark",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2024-04-20T08:26:18Z",
             "owner": "duolingo",
             "repo": "halflife-regression",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2024-04-20T08:26:18Z",
             "owner": "duolingo",
             "repo": "halflife-regression",
-            "stars": 575
+            "stars": 576
           }
         }
       ],
@@ -700,7 +700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:38:43.886Z",
+    "last_updated": "2026-08-16T10:39:25.184Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_sha": "11324c0969bfb671efd29b15c77d383ecede39f7",
     "enhanced_repository": "enhansome/enhansome-fsrs",
