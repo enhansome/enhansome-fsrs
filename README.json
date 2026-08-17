@@ -143,7 +143,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T02:39:16Z",
+                "last_commit": "2026-08-17T09:15:18Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
                 "stars": 757
@@ -514,7 +514,7 @@
             "last_commit": "2026-06-21T04:44:56Z",
             "owner": "open-spaced-repetition",
             "repo": "obsidian-spaced-repetition-recall",
-            "stars": 209
+            "stars": 208
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-14T03:02:14Z",
             "owner": "ctrlaltwill",
             "repo": "LearnKit",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -629,7 +629,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-03T17:39:46Z",
+            "last_commit": "2026-08-17T03:06:19Z",
             "owner": "open-spaced-repetition",
             "repo": "srs-benchmark",
             "stars": 249
@@ -651,7 +651,7 @@
                 "last_commit": "2026-08-11T06:17:48Z",
                 "owner": "open-spaced-repetition",
                 "repo": "awesome-fsrs",
-                "stars": 651
+                "stars": 653
               }
             }
           ]
@@ -700,7 +700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:39:25.184Z",
+    "last_updated": "2026-08-17T10:48:24.963Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_sha": "11324c0969bfb671efd29b15c77d383ecede39f7",
     "enhanced_repository": "enhansome/enhansome-fsrs",
