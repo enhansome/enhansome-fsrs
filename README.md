@@ -63,7 +63,7 @@ Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It im
 
 * FSRS-5 is the default scheduler. SM-2 is available per deck, and switching between them does not reset progress.
 * On import, Avorio can fit FSRS parameters to your own Anki review log rather than using generic defaults.
-* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,877 | 🐛 282 | 🌐 Rust | 📅 2026-08-18.
+* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,877 | 🐛 283 | 🌐 Rust | 📅 2026-08-18.
 
 #### [Discito](https://discito.app)
 
@@ -96,7 +96,7 @@ Markji is a flashcard application designed to help users efficiently memorize an
 * Offline-first by default; sync securely across devices with a **Pro** subscription
 * Import Anki decks or export `.mochi` packages for backup and sharing
 
-#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 4 | 🐛 14 | 🌐 Rust | 📅 2026-08-19
+#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 4 | 🐛 15 | 🌐 Rust | 📅 2026-08-19
 
 Open source Japanese learning app for desktop (Windows, Linux, macOS) and Android. Built-in dictionaries, kanji, grammar, and phrases — all scheduled with FSRS. Russian and English. Offline-first.
 
@@ -177,7 +177,7 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 45,882 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-19
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 45,885 | 🐛 76 | 🌐 TypeScript | 📅 2026-08-19
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 

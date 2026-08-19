@@ -477,7 +477,7 @@
                 "archived": false,
                 "id": 1068530013,
                 "language": "Rust",
-                "last_commit": "2026-08-19T06:32:20Z",
+                "last_commit": "2026-08-19T11:57:06Z",
                 "owner": "yurvon-screamo",
                 "repo": "origa",
                 "stars": 4
@@ -614,7 +614,7 @@
                 "last_commit": "2026-08-19T06:18:35Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45882
+                "stars": 45885
               },
               "title": "SiYuan"
             },
@@ -781,8 +781,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:46:17.860Z",
+    "last_updated": "2026-08-19T12:28:10.844Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
+    "original_repository_id": 853732915,
     "original_repository_sha": "11324c0969bfb671efd29b15c77d383ecede39f7",
     "enhanced_repository": "enhansome/enhansome-fsrs",
     "enhanced_repository_description": null,
