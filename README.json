@@ -152,10 +152,10 @@
                 "archived": false,
                 "id": 609765386,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T06:57:21Z",
+                "last_commit": "2026-08-22T07:31:59Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 762
+                "stars": 763
               }
             }
           ]
@@ -477,7 +477,7 @@
                 "archived": false,
                 "id": 1068530013,
                 "language": "Rust",
-                "last_commit": "2026-08-21T03:04:39Z",
+                "last_commit": "2026-08-22T06:30:06Z",
                 "owner": "yurvon-screamo",
                 "repo": "origa",
                 "stars": 4
@@ -611,10 +611,10 @@
                 "archived": false,
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T10:27:03Z",
+                "last_commit": "2026-08-22T06:41:30Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45913
+                "stars": 45924
               },
               "title": "SiYuan"
             },
@@ -626,10 +626,10 @@
                 "archived": false,
                 "id": 2828239,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T07:04:34Z",
+                "last_commit": "2026-08-21T20:31:22Z",
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8626
+                "stars": 8628
               },
               "title": "TiddlyWiki"
             }
@@ -648,10 +648,10 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T03:30:06Z",
+                "last_commit": "2026-08-22T03:30:11Z",
                 "owner": "campfirium",
                 "repo": "foliole",
-                "stars": 107
+                "stars": 109
               },
               "title": "Foliole"
             }
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:47:39.212Z",
+    "last_updated": "2026-08-22T10:40:06.500Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_id": 853732915,
     "original_repository_sha": "11324c0969bfb671efd29b15c77d383ecede39f7",
