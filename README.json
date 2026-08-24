@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-09T04:35:03Z",
                 "owner": "open-spaced-repetition",
                 "repo": "py-fsrs",
-                "stars": 473
+                "stars": 474
               }
             },
             {
@@ -118,7 +118,7 @@
                 "last_commit": "2026-08-06T15:48:47Z",
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-rs",
-                "stars": 409
+                "stars": 411
               }
             },
             {
@@ -152,10 +152,10 @@
                 "archived": false,
                 "id": 609765386,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T04:05:00Z",
+                "last_commit": "2026-08-24T03:36:47Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 763
+                "stars": 766
               }
             }
           ]
@@ -243,7 +243,7 @@
                 "last_commit": "2025-06-11T09:52:23Z",
                 "owner": "open-spaced-repetition",
                 "repo": "rs-fsrs-c",
-                "stars": 7
+                "stars": 8
               }
             }
           ]
@@ -309,7 +309,7 @@
                 "last_commit": "2026-05-25T10:24:17Z",
                 "owner": "open-spaced-repetition",
                 "repo": "swift-fsrs",
-                "stars": 98
+                "stars": 99
               }
             }
           ]
@@ -375,7 +375,7 @@
                 "last_commit": "2025-08-07T13:34:38Z",
                 "owner": "open-spaced-repetition",
                 "repo": "FSRS-Kotlin",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 1068530013,
                 "language": "Rust",
-                "last_commit": "2026-08-23T03:59:05Z",
+                "last_commit": "2026-08-24T05:05:17Z",
                 "owner": "yurvon-screamo",
                 "repo": "origa",
                 "stars": 4
@@ -572,7 +572,7 @@
                     "last_commit": "2026-08-23T00:59:18Z",
                     "owner": "ctrlaltwill",
                     "repo": "LearnKit",
-                    "stars": 164
+                    "stars": 165
                   }
                 },
                 {
@@ -584,7 +584,7 @@
                     "archived": false,
                     "id": 1126132370,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T18:25:14Z",
+                    "last_commit": "2026-08-23T18:20:56Z",
                     "owner": "pieralukasz",
                     "repo": "true-recall",
                     "stars": 58
@@ -606,7 +606,7 @@
                 "last_commit": "2026-06-28T18:15:53Z",
                 "owner": "bohonghuang",
                 "repo": "org-srs",
-                "stars": 126
+                "stars": 125
               },
               "title": "Org-srs"
             },
@@ -633,10 +633,10 @@
                 "archived": false,
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T02:43:46Z",
+                "last_commit": "2026-08-23T23:52:52Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45937
+                "stars": 45953
               },
               "title": "SiYuan"
             },
@@ -670,7 +670,7 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T10:27:05Z",
+                "last_commit": "2026-08-24T10:11:51Z",
                 "owner": "campfirium",
                 "repo": "foliole",
                 "stars": 109
@@ -726,7 +726,7 @@
                     "last_commit": "2026-08-17T03:06:19Z",
                     "owner": "open-spaced-repetition",
                     "repo": "srs-benchmark",
-                    "stars": 252
+                    "stars": 254
                   }
                 },
                 {
@@ -746,7 +746,7 @@
                         "last_commit": "2026-08-22T14:20:19Z",
                         "owner": "open-spaced-repetition",
                         "repo": "awesome-fsrs",
-                        "stars": 659
+                        "stars": 663
                       }
                     }
                   ]
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:40:33.473Z",
+    "last_updated": "2026-08-24T10:53:38.277Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_id": 853732915,
     "original_repository_sha": "22d3135ccee09d338e21a4669cbcfd1ffea4320f",
