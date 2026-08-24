@@ -492,19 +492,101 @@
         {
           "children": [
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through UniFFI",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271210496,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T01:54:11Z",
+                    "owner": "mozilla",
+                    "repo": "uniffi-rs",
+                    "stars": 4888
+                  }
+                }
+              ],
+              "description": "Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It imports Anki and files with scheduling state, review history, media, tags, note types, cloze deletions and image occlusion cards intact, so decks resume on the schedule they were already on instead of resetting to new, and exports back to . Cards live in a local SQLite database and the review path makes no network calls, so it works offline and does not require an account. The flashcard app, FSRS-5, Anki import/export, local AI via Ollama, and offline mode are free; optional subscriptions add cloud AI generation and Mac-to-iPhone sync.",
+              "node_type": "group",
+              "title": "Avorio"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FSRS scheduled flashcard reviews that rely on rs-fsrs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 608487547,
+                    "language": "Rust",
+                    "last_commit": "2026-07-20T17:03:02Z",
+                    "owner": "open-spaced-repetition",
+                    "repo": "rs-fsrs",
+                    "stars": 49
+                  }
+                }
+              ],
+              "description": "An Anki compatible online Flashcard platform that supports PWA install.",
+              "node_type": "group",
+              "title": "Flipnem"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Uses fsrs-rs",
+                  "description": "for FSRS-6 scheduling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 679353662,
+                    "language": "Rust",
+                    "last_commit": "2026-08-06T15:48:47Z",
+                    "owner": "open-spaced-repetition",
+                    "repo": "fsrs-rs",
+                    "stars": 411
+                  }
+                }
+              ],
               "description": "Open source Japanese learning app for desktop (Windows, Linux, macOS) and Android. Built-in dictionaries, kanji, grammar, and phrases — all scheduled with FSRS. Russian and English. Offline-first.",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
                 "id": 1068530013,
                 "language": "Rust",
-                "last_commit": "2026-08-24T05:05:17Z",
+                "last_commit": "2026-08-24T13:31:04Z",
                 "owner": "yurvon-screamo",
                 "repo": "origa",
                 "stars": 4
               },
               "title": "Origa"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Quanta uses ts-fsrs",
+                  "description": "for native FSRS-6 scheduling across all review modes (classic, endless, exam simulation).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609765386,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T03:36:47Z",
+                    "owner": "open-spaced-repetition",
+                    "repo": "ts-fsrs",
+                    "stars": 766
+                  }
+                }
+              ],
+              "description": "Quanta is an AI-powered flashcard and exam platform for German-speaking students (DACH region). It combines citation-first AI generation — where every card links to verifiable academic sources (Google Scholar, Wikipedia, textbooks) — with Bloom taxonomy control, LaTeX rendering, and MC quiz generation following Haladyna & Downing distractor guidelines.",
+              "node_type": "group",
+              "title": "Quanta"
             },
             {
               "children": [],
@@ -633,10 +715,10 @@
                 "archived": false,
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T23:52:52Z",
+                "last_commit": "2026-08-24T13:40:36Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45953
+                "stars": 45954
               },
               "title": "SiYuan"
             },
@@ -654,6 +736,28 @@
                 "stars": 8629
               },
               "title": "TiddlyWiki"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ZKMemo integrates FSRS-6, implemented using the srs-everything",
+                  "description": ".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 971501244,
+                    "language": "TypeScript",
+                    "last_commit": "2025-07-04T11:47:58Z",
+                    "owner": "jiangege",
+                    "repo": "srs-everything",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": "ZKMemo is a free, offline-first note-taking and learning software that combines FSRS-based spaced repetition with incremental reading. It features a SuperMemo-like interface, tree-structured knowledge management, AI integration, and Zettelkasten linking.",
+              "node_type": "group",
+              "title": "ZKMemo"
             }
           ],
           "description": null,
@@ -670,7 +774,7 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:11:51Z",
+                "last_commit": "2026-08-24T13:50:59Z",
                 "owner": "campfirium",
                 "repo": "foliole",
                 "stars": 109
@@ -685,6 +789,28 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "It uses ts-fsrs",
+                  "description": "to schedule reviews of JLPT N5 - N1 vocabulary and grammar flashcards.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609765386,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T03:36:47Z",
+                    "owner": "open-spaced-repetition",
+                    "repo": "ts-fsrs",
+                    "stars": 766
+                  }
+                }
+              ],
+              "description": "AI Japanese Tutor blends voice-based Japanese verb conjugation practice with SRS-powered flashcards for JLPT N5 - N1 grammar and vocabulary.",
+              "node_type": "group",
+              "title": "AI Japanese Tutor"
+            },
+            {
               "children": [],
               "description": "Intended for language learning, HSRS continuously refreshes card content using a system of parameterized grammar cards. Individual reviews of a card reschedule all sub-cards in the parameter tree using bayesian statistics to estimate the contributions of each. Changes to stability from FSRS are interpolated in retrievability-space according to their probability.\nUsed to power grsly, a tool for learning Japanese grammar.",
               "node_type": "item",
@@ -698,6 +824,28 @@
                 "stars": 36
               },
               "title": "HSRS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Available on web.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 571532439,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T04:35:03Z",
+                    "owner": "open-spaced-repetition",
+                    "repo": "py-fsrs",
+                    "stars": 474
+                  }
+                }
+              ],
+              "description": "LinGoat is an AI-powered language learning app that scores every word and grammar rule in every sentence you translate. Each item gets its own independent FSRS schedule, so reviews are driven by precise per-item recall data rather than sentence-level outcomes.",
+              "node_type": "group",
+              "title": "LinGoat"
             }
           ],
           "description": null,
@@ -746,7 +894,7 @@
                         "last_commit": "2026-08-22T14:20:19Z",
                         "owner": "open-spaced-repetition",
                         "repo": "awesome-fsrs",
-                        "stars": 663
+                        "stars": 664
                       }
                     }
                   ]
@@ -755,6 +903,50 @@
               "description": null,
               "node_type": "group",
               "title": "FSRS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Code:",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "maimemo/SSP-MMC: A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 448610646,
+                        "language": "Python",
+                        "last_commit": "2025-11-28T06:18:47Z",
+                        "owner": "maimemo",
+                        "repo": "SSP-MMC",
+                        "stars": 219
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "maimemo/SSP-MMC-Plus: Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 512372470,
+                        "language": "Python",
+                        "last_commit": "2024-03-14T11:42:48Z",
+                        "owner": "maimemo",
+                        "repo": "SSP-MMC-Plus",
+                        "stars": 72
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MaiMemo"
             },
             {
               "children": [
@@ -803,7 +995,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:53:38.277Z",
+    "last_updated": "2026-08-24T14:23:03.721Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_id": 853732915,
     "original_repository_sha": "22d3135ccee09d338e21a4669cbcfd1ffea4320f",

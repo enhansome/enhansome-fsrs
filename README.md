@@ -1,4 +1,4 @@
-[<img src="https://github.com/open-spaced-repetition/fsrs4anki/assets/32575846/9efb2ca5-51bd-411d-9694-a77b09f51fa7" align="left" width="64" height="64">](https://github.com/open-spaced-repetition/awesome-fsrs) ⭐ 663 | 🐛 5 | 📅 2026-08-22
+[<img src="https://github.com/open-spaced-repetition/fsrs4anki/assets/32575846/9efb2ca5-51bd-411d-9694-a77b09f51fa7" align="left" width="64" height="64">](https://github.com/open-spaced-repetition/awesome-fsrs) ⭐ 664 | 🐛 6 | 📅 2026-08-22
 
 # Awesome FSRS with stars
 
@@ -63,9 +63,9 @@ Free and open source, content-agnostic flashcard application for Windows, Mac, L
 
 Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It imports Anki `.apkg` and `.colpkg` files with scheduling state, review history, media, tags, note types, cloze deletions and image occlusion cards intact, so decks resume on the schedule they were already on instead of resetting to new, and exports back to `.apkg`. Cards live in a local SQLite database and the review path makes no network calls, so it works offline and does not require an account. The flashcard app, FSRS-5, Anki import/export, local AI via Ollama, and offline mode are free; optional subscriptions add cloud AI generation and Mac-to-iPhone sync.
 
+* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,888 | 🐛 281 | 🌐 Rust | 📅 2026-08-24.
 * FSRS-5 is the default scheduler. SM-2 is available per deck, and switching between them does not reset progress.
 * On import, Avorio can fit FSRS parameters to your own Anki review log rather than using generic defaults.
-* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,887 | 🐛 281 | 🌐 Rust | 📅 2026-08-24.
 
 #### [Discito](https://discito.app)
 
@@ -77,10 +77,10 @@ Discito uses its own Swift FSRS-6 port (validated for parity against [py-fsrs](h
 
 An Anki compatible online Flashcard platform that supports PWA install.
 
+* FSRS scheduled flashcard reviews that rely on [rs-fsrs](https://github.com/open-spaced-repetition/rs-fsrs) ⭐ 49 | 🐛 3 | 🌐 Rust | 📅 2026-07-20
 * Mnemonics, Deck Encryption, Deck Sharing, and an optional public profile to show off your progress
 * An MCP server that allows user to connect their own AI agent to their collections for quizzing, deck management, and mnemonic reinforcement.
 * Free and paid tiers
-* FSRS scheduled flashcard reviews that rely on [rs-fsrs](https://github.com/open-spaced-repetition/rs-fsrs) ⭐ 49 | 🐛 3 | 🌐 Rust | 📅 2026-07-20
 
 #### [Markji](https://www.markji.com/)
 
@@ -98,7 +98,7 @@ Markji is a flashcard application designed to help users efficiently memorize an
 * Offline-first by default; sync securely across devices with a **Pro** subscription
 * Import Anki decks or export `.mochi` packages for backup and sharing
 
-#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 4 | 🐛 20 | 🌐 Rust | 📅 2026-08-24
+#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 4 | 🐛 21 | 🌐 Rust | 📅 2026-08-24
 
 Open source Japanese learning app for desktop (Windows, Linux, macOS) and Android. Built-in dictionaries, kanji, grammar, and phrases — all scheduled with FSRS. Russian and English. Offline-first.
 
@@ -179,13 +179,13 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 45,953 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-23
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 45,954 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-24
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 
 SiYuan's uses FSRS-5: [riff](https://github.com/siyuan-note/riff) ⭐ 47 | 🐛 0 | 🌐 Go | 📅 2026-08-23
 
-#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,629 | 🐛 1,149 | 🌐 JavaScript | 📅 2026-08-21
+#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,629 | 🐛 1,150 | 🌐 JavaScript | 📅 2026-08-21
 
 TiddlyWiki is a customizable single HTML file personal wiki for creating interlinked notes. Its open-source nature and plugin ecosystem make it adaptable for various uses, from project management to knowledge systems. With the FSRS plugin, TiddlyWiki can also be used as a flashcard app for learning and memorization.
 
@@ -246,12 +246,12 @@ The app consists of a Chrome extension, website for now. A mobile app is under d
 
 LinGoat is an AI-powered language learning app that scores every word and grammar rule in every sentence you translate. Each item gets its own independent FSRS schedule, so reviews are driven by precise per-item recall data rather than sentence-level outcomes.
 
-* Schedules word and grammar reviews using FSRS v6.
-* Stacks multiple due or soon to be due review concepts into a single sentence to maximize useful reps per minute.
-* Currently supports Spanish, with English and German coming soon. Free to get started. Supports learning Spanish from multiple languages.
 * Available on web.
 
   LinGoat uses [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) ⭐ 474 | 🐛 0 | 🌐 Python | 📅 2026-08-09 (FSRS-6) for scheduling.
+* Schedules word and grammar reviews using FSRS v6.
+* Stacks multiple due or soon to be due review concepts into a single sentence to maximize useful reps per minute.
+* Currently supports Spanish, with English and German coming soon. Free to get started. Supports learning Spanish from multiple languages.
 
 #### [Rhythm Word](https://rhythmword.com)
 
@@ -273,7 +273,7 @@ See [announcement blog post](https://cesardelsolar.com/posts/2024-10-13-wordvaul
 
 * Benchmark: [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark) ⭐ 254 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-08-17
 * Math:
-  * [The Algorithm · open-spaced-repetition/awesome-fsrs Wiki](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm) ⭐ 663 | 🐛 5 | 📅 2026-08-22
+  * [The Algorithm · open-spaced-repetition/awesome-fsrs Wiki](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm) ⭐ 664 | 🐛 6 | 📅 2026-08-22
 * Dataset:
   * [open-spaced-repetition/anki-revlogs-10k · Datasets at Hugging Face](https://huggingface.co/datasets/open-spaced-repetition/anki-revlogs-10k) (latest)
   * [open-spaced-repetition/FSRS-Anki-20k · Datasets at Hugging Face](https://huggingface.co/datasets/open-spaced-repetition/FSRS-Anki-20k) (deprecated)
