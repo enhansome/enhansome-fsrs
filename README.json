@@ -152,7 +152,7 @@
                 "archived": false,
                 "id": 609765386,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:36:47Z",
+                "last_commit": "2026-08-25T07:18:31Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
                 "stars": 767
@@ -505,7 +505,7 @@
                     "last_commit": "2026-08-24T01:54:11Z",
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 4890
+                    "stars": 4891
                   }
                 }
               ],
@@ -559,7 +559,7 @@
                 "archived": false,
                 "id": 1068530013,
                 "language": "Rust",
-                "last_commit": "2026-08-25T04:43:04Z",
+                "last_commit": "2026-08-25T06:47:36Z",
                 "owner": "yurvon-screamo",
                 "repo": "origa",
                 "stars": 4
@@ -577,7 +577,7 @@
                     "archived": false,
                     "id": 609765386,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T03:36:47Z",
+                    "last_commit": "2026-08-25T07:18:31Z",
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
                     "stars": 767
@@ -718,7 +718,7 @@
                 "last_commit": "2026-08-25T00:52:31Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45970
+                "stars": 45972
               },
               "title": "SiYuan"
             },
@@ -733,7 +733,7 @@
                 "last_commit": "2026-08-24T21:14:39Z",
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8630
+                "stars": 8631
               },
               "title": "TiddlyWiki"
             },
@@ -774,7 +774,7 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:14:58Z",
+                "last_commit": "2026-08-25T10:10:18Z",
                 "owner": "campfirium",
                 "repo": "foliole",
                 "stars": 109
@@ -799,7 +799,7 @@
                     "archived": false,
                     "id": 609765386,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T03:36:47Z",
+                    "last_commit": "2026-08-25T07:18:31Z",
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
                     "stars": 767
@@ -909,7 +909,7 @@
                         "last_commit": "2026-08-25T04:31:08Z",
                         "owner": "open-spaced-repetition",
                         "repo": "awesome-fsrs",
-                        "stars": 664
+                        "stars": 665
                       }
                     }
                   ]
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:12.833Z",
+    "last_updated": "2026-08-25T10:49:34.891Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_id": 853732915,
     "original_repository_sha": "1667eb4e7892b84a42cdb623da3a2115414e458b",
