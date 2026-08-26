@@ -502,10 +502,10 @@
                     "archived": false,
                     "id": 271210496,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T01:54:11Z",
+                    "last_commit": "2026-08-25T10:52:19Z",
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 4891
+                    "stars": 4896
                   }
                 }
               ],
@@ -639,7 +639,7 @@
                     "last_commit": "2026-06-21T04:44:56Z",
                     "owner": "open-spaced-repetition",
                     "repo": "obsidian-spaced-repetition-recall",
-                    "stars": 208
+                    "stars": 209
                   }
                 },
                 {
@@ -715,10 +715,10 @@
                 "archived": false,
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T00:52:31Z",
+                "last_commit": "2026-08-26T10:43:37Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45972
+                "stars": 45989
               },
               "title": "SiYuan"
             },
@@ -730,10 +730,10 @@
                 "archived": false,
                 "id": 2828239,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T21:14:39Z",
+                "last_commit": "2026-08-25T16:24:43Z",
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8631
+                "stars": 8633
               },
               "title": "TiddlyWiki"
             },
@@ -774,7 +774,7 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T10:10:18Z",
+                "last_commit": "2026-08-26T10:45:21Z",
                 "owner": "campfirium",
                 "repo": "foliole",
                 "stars": 109
@@ -855,7 +855,7 @@
                 "archived": false,
                 "id": 1344874800,
                 "language": "C#",
-                "last_commit": "2026-08-24T23:30:46Z",
+                "last_commit": "2026-08-25T22:51:57Z",
                 "owner": "ArabidopsisDev",
                 "repo": "Word2Sentence",
                 "stars": 1
@@ -886,7 +886,7 @@
                     "archived": false,
                     "id": 703520789,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-17T03:06:19Z",
+                    "last_commit": "2026-08-25T14:18:17Z",
                     "owner": "open-spaced-repetition",
                     "repo": "srs-benchmark",
                     "stars": 254
@@ -909,7 +909,7 @@
                         "last_commit": "2026-08-25T04:31:08Z",
                         "owner": "open-spaced-repetition",
                         "repo": "awesome-fsrs",
-                        "stars": 665
+                        "stars": 666
                       }
                     }
                   ]
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:49:34.891Z",
+    "last_updated": "2026-08-26T10:51:41.846Z",
     "original_repository": "open-spaced-repetition/awesome-fsrs",
     "original_repository_id": 853732915,
     "original_repository_sha": "1667eb4e7892b84a42cdb623da3a2115414e458b",
