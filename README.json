@@ -505,7 +505,7 @@
                     "last_commit": "2026-08-25T10:52:19Z",
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 4899
+                    "stars": 4901
                   }
                 }
               ],
@@ -669,7 +669,7 @@
                     "last_commit": "2026-08-23T18:20:56Z",
                     "owner": "pieralukasz",
                     "repo": "true-recall",
-                    "stars": 58
+                    "stars": 59
                   }
                 }
               ],
@@ -718,7 +718,7 @@
                 "last_commit": "2026-08-27T11:42:13Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 46005
+                "stars": 46011
               },
               "title": "SiYuan"
             },
@@ -733,7 +733,7 @@
                 "last_commit": "2026-08-25T16:24:43Z",
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8633
+                "stars": 8632
               },
               "title": "TiddlyWiki"
             },
@@ -774,7 +774,7 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:40:34Z",
+                "last_commit": "2026-08-27T14:08:13Z",
                 "owner": "campfirium",
                 "repo": "foliole",
                 "stars": 110
@@ -854,8 +854,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 1344874800,
-                "language": "C#",
-                "last_commit": "2026-08-25T22:51:57Z",
+                "language": "Python",
+                "last_commit": "2026-08-27T13:22:25Z",
                 "owner": "ArabidopsisDev",
                 "repo": "Word2Sentence",
                 "stars": 1
@@ -889,7 +889,7 @@
                     "last_commit": "2026-08-25T14:18:17Z",
                     "owner": "open-spaced-repetition",
                     "repo": "srs-benchmark",
-                    "stars": 254
+                    "stars": 255
                   }
                 },
                 {
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:57.651Z",
+    "last_updated": "2026-08-27T20:30:15.094Z",
     "original_repository_info": {
       "archived": false,
       "id": 853732915,

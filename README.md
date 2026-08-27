@@ -63,7 +63,7 @@ Free and open source, content-agnostic flashcard application for Windows, Mac, L
 
 Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It imports Anki `.apkg` and `.colpkg` files with scheduling state, review history, media, tags, note types, cloze deletions and image occlusion cards intact, so decks resume on the schedule they were already on instead of resetting to new, and exports back to `.apkg`. Cards live in a local SQLite database and the review path makes no network calls, so it works offline and does not require an account. The flashcard app, FSRS-5, Anki import/export, local AI via Ollama, and offline mode are free; optional subscriptions add cloud AI generation and Mac-to-iPhone sync.
 
-* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,899 | 🐛 281 | 🌐 Rust | 📅 2026-08-25.
+* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,901 | 🐛 281 | 🌐 Rust | 📅 2026-08-25.
 * FSRS-5 is the default scheduler. SM-2 is available per deck, and switching between them does not reset progress.
 * On import, Avorio can fit FSRS parameters to your own Anki review log rather than using generic defaults.
 
@@ -155,7 +155,7 @@ A personal notes, journaling, knowledge base, and project management application
 
 * [LearnKit](https://github.com/ctrlaltwill/LearnKit) ⭐ 165 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-23 helps you remember what you write. It brings flashcards, note review, tests, and AI-assisted study tools into Obsidian, so your vault becomes a place to learn, not just store information. It uses FSRS-6 for spaced repetition scheduling.
 
-* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 is a next-gen spaced repetition system for Obsidian with AI card generation, local-first SQLite storage, Anki import/export, projects system, and comprehensive analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 769 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-25.
+* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 is a next-gen spaced repetition system for Obsidian with AI card generation, local-first SQLite storage, Anki import/export, projects system, and comprehensive analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 769 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-25.
 
 #### [Org-srs](https://github.com/bohonghuang/org-srs) ⭐ 125 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-06-28
 
@@ -179,13 +179,13 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,005 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-27
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,011 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-27
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 
 SiYuan's uses FSRS-5: [riff](https://github.com/siyuan-note/riff) ⭐ 47 | 🐛 0 | 🌐 Go | 📅 2026-08-23
 
-#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,633 | 🐛 1,156 | 🌐 JavaScript | 📅 2026-08-25
+#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,632 | 🐛 1,157 | 🌐 JavaScript | 📅 2026-08-25
 
 TiddlyWiki is a customizable single HTML file personal wiki for creating interlinked notes. Its open-source nature and plugin ecosystem make it adaptable for various uses, from project management to knowledge systems. With the FSRS plugin, TiddlyWiki can also be used as a flashcard app for learning and memorization.
 
@@ -259,7 +259,7 @@ Rhythm Word is an iOS vocabulary learning app that helps users build and retain 
 
 Rhythm Word implements FSRS-4.5 for intelligent review scheduling.
 
-#### [Word2Sentence](https://github.com/ArabidopsisDev/Word2Sentence) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-08-25
+#### [Word2Sentence](https://github.com/ArabidopsisDev/Word2Sentence) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-27
 
 Word2Sentence is a local-first Windows desktop app for learning vocabulary through sentence production. AI generates multilingual writing scenarios, provides inline feedback and post-answer usage cards, and automatically evaluates target-word recall without self-rating buttons.
 
@@ -278,7 +278,7 @@ See [announcement blog post](https://cesardelsolar.com/posts/2024-10-13-wordvaul
 
 #### FSRS
 
-* Benchmark: [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark) ⭐ 254 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-08-25
+* Benchmark: [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark) ⭐ 255 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-08-25
 * Math:
   * [The Algorithm · open-spaced-repetition/awesome-fsrs Wiki](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm) ⭐ 666 | 🐛 5 | 📅 2026-08-25
 * Dataset:
