@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-09T04:35:03Z",
                 "owner": "open-spaced-repetition",
                 "repo": "py-fsrs",
-                "stars": 474
+                "stars": 476
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-08-10T02:44:23Z",
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-rs-python",
-                "stars": 36
+                "stars": 37
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-25T07:18:31Z",
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 767
+                "stars": 769
               }
             }
           ]
@@ -177,7 +177,7 @@
                 "last_commit": "2026-07-25T14:51:39Z",
                 "owner": "open-spaced-repetition",
                 "repo": "go-fsrs",
-                "stars": 142
+                "stars": 143
               }
             }
           ]
@@ -505,7 +505,7 @@
                     "last_commit": "2026-08-25T10:52:19Z",
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 4896
+                    "stars": 4899
                   }
                 }
               ],
@@ -580,7 +580,7 @@
                     "last_commit": "2026-08-25T07:18:31Z",
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 767
+                    "stars": 769
                   }
                 }
               ],
@@ -715,10 +715,10 @@
                 "archived": false,
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:43:37Z",
+                "last_commit": "2026-08-27T11:42:13Z",
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 45989
+                "stars": 46005
               },
               "title": "SiYuan"
             },
@@ -774,10 +774,10 @@
                 "archived": false,
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:45:21Z",
+                "last_commit": "2026-08-27T11:40:34Z",
                 "owner": "campfirium",
                 "repo": "foliole",
-                "stars": 109
+                "stars": 110
               },
               "title": "Foliole"
             }
@@ -802,7 +802,7 @@
                     "last_commit": "2026-08-25T07:18:31Z",
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 767
+                    "stars": 769
                   }
                 }
               ],
@@ -839,7 +839,7 @@
                     "last_commit": "2026-08-09T04:35:03Z",
                     "owner": "open-spaced-repetition",
                     "repo": "py-fsrs",
-                    "stars": 474
+                    "stars": 476
                   }
                 }
               ],
@@ -1010,9 +1010,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:51:41.846Z",
-    "original_repository": "open-spaced-repetition/awesome-fsrs",
-    "original_repository_id": 853732915,
+    "last_updated": "2026-08-27T11:43:57.651Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 853732915,
+      "language": null,
+      "last_commit": "2026-08-25T04:31:08Z",
+      "owner": "open-spaced-repetition",
+      "repo": "awesome-fsrs",
+      "stars": 666
+    },
     "original_repository_sha": "1667eb4e7892b84a42cdb623da3a2115414e458b",
     "enhanced_repository": "enhansome/enhansome-fsrs",
     "enhanced_repository_description": null,
