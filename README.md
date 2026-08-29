@@ -1,4 +1,4 @@
-[<img src="https://github.com/open-spaced-repetition/fsrs4anki/assets/32575846/9efb2ca5-51bd-411d-9694-a77b09f51fa7" align="left" width="64" height="64">](https://github.com/open-spaced-repetition/awesome-fsrs) ⭐ 672 | 🐛 5 | 📅 2026-08-25
+[<img src="https://github.com/open-spaced-repetition/fsrs4anki/assets/32575846/9efb2ca5-51bd-411d-9694-a77b09f51fa7" align="left" width="64" height="64">](https://github.com/open-spaced-repetition/awesome-fsrs) ⭐ 671 | 🐛 5 | 📅 2026-08-25
 
 # Awesome FSRS with stars
 
@@ -63,7 +63,7 @@ Free and open source, content-agnostic flashcard application for Windows, Mac, L
 
 Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It imports Anki `.apkg` and `.colpkg` files with scheduling state, review history, media, tags, note types, cloze deletions and image occlusion cards intact, so decks resume on the schedule they were already on instead of resetting to new, and exports back to `.apkg`. Cards live in a local SQLite database and the review path makes no network calls, so it works offline and does not require an account. The flashcard app, FSRS-5, Anki import/export, local AI via Ollama, and offline mode are free; optional subscriptions add cloud AI generation and Mac-to-iPhone sync.
 
-* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,902 | 🐛 282 | 🌐 Rust | 📅 2026-08-25.
+* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 4,903 | 🐛 282 | 🌐 Rust | 📅 2026-08-25.
 * FSRS-5 is the default scheduler. SM-2 is available per deck, and switching between them does not reset progress.
 * On import, Avorio can fit FSRS parameters to your own Anki review log rather than using generic defaults.
 
@@ -179,7 +179,7 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,023 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-28
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,025 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-29
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 
@@ -200,7 +200,7 @@ ZKMemo is a free, offline-first note-taking and learning software that combines 
 
 ### Incremental Reading
 
-#### [Foliole](https://github.com/campfirium/foliole) ⭐ 110 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-28
+#### [Foliole](https://github.com/campfirium/foliole) ⭐ 110 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-29
 
 Foliole is an approachable incremental reading app for making reading actually complete.
 
@@ -259,7 +259,7 @@ Rhythm Word is an iOS vocabulary learning app that helps users build and retain 
 
 Rhythm Word implements FSRS-4.5 for intelligent review scheduling.
 
-#### [Word2Sentence](https://github.com/ArabidopsisDev/Word2Sentence) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-27
+#### [Word2Sentence](https://github.com/ArabidopsisDev/Word2Sentence) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-29
 
 Word2Sentence is a local-first Windows desktop app for learning vocabulary through sentence production. AI generates multilingual writing scenarios, provides inline feedback and post-answer usage cards, and automatically evaluates target-word recall without self-rating buttons.
 
@@ -278,9 +278,9 @@ See [announcement blog post](https://cesardelsolar.com/posts/2024-10-13-wordvaul
 
 #### FSRS
 
-* Benchmark: [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark) ⭐ 257 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-08-28
+* Benchmark: [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark) ⭐ 257 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-08-29
 * Math:
-  * [The Algorithm · open-spaced-repetition/awesome-fsrs Wiki](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm) ⭐ 672 | 🐛 5 | 📅 2026-08-25
+  * [The Algorithm · open-spaced-repetition/awesome-fsrs Wiki](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm) ⭐ 671 | 🐛 5 | 📅 2026-08-25
 * Dataset:
   * [open-spaced-repetition/anki-revlogs-10k · Datasets at Hugging Face](https://huggingface.co/datasets/open-spaced-repetition/anki-revlogs-10k) (latest)
   * [open-spaced-repetition/FSRS-Anki-20k · Datasets at Hugging Face](https://huggingface.co/datasets/open-spaced-repetition/FSRS-Anki-20k) (deprecated)
@@ -332,4 +332,4 @@ Leitner sytem sorts flashcard into groups according to how well the learner know
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

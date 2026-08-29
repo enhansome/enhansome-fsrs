@@ -15,12 +15,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Package for FSRS Spaced Repetition",
+                "homepage": "https://pypi.org/project/fsrs",
                 "id": 571532439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T04:35:03Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "py-fsrs",
-                "stars": 477
+                "stars": 477,
+                "topics": [
+                  "flashcard",
+                  "fsrs",
+                  "spaced-repetition"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             },
@@ -31,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FSRS Optimizer Package",
+                "homepage": "https://pypi.org/project/FSRS-Optimizer/",
                 "id": 671822420,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-06T04:58:58Z",
+                "open_issues": 2,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-optimizer",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "deep-learning",
+                  "fsrs",
+                  "spaced-repetition",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             },
@@ -47,12 +66,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python bindings for fsrs-rs, hand-coded gradient, instead of pytorch. 2GB -> 1MB, save your disk!",
+                "homepage": "https://pypi.org/project/fsrs-rs-python/",
                 "id": 865334949,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-10T02:44:23Z",
+                "open_issues": 6,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-rs-python",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "binding",
+                  "fsrs",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             },
@@ -63,12 +91,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python binding for rs-fsrs",
+                "homepage": null,
                 "id": 859703621,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-10-18T17:00:12Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "rs-fsrs-python",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             },
@@ -79,12 +114,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 674574164,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-05T09:02:33Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-optimizer-tiny",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -107,24 +147,45 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FSRS for the browser, including Optimizer and Scheduler",
+                    "homepage": "https://www.npmjs.com/package/fsrs-browser",
                     "id": 700872490,
                     "language": "Rust",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-06-14T00:57:01Z",
+                    "open_issues": 0,
                     "owner": "open-spaced-repetition",
                     "repo": "fsrs-browser",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "fsrs",
+                      "machine-learning",
+                      "rust",
+                      "spaced-repetition-algorithm",
+                      "wasm"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "FSRS for Rust, including Optimizer and Scheduler",
+                "homepage": "https://crates.io/crates/fsrs",
                 "id": 679353662,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:52:20Z",
+                "open_issues": 9,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-rs",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "fsrs",
+                  "machine-learning",
+                  "rust",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             },
@@ -135,12 +196,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust-based Scheduler for FSRS",
+                "homepage": "https://crates.io/crates/rs-fsrs",
                 "id": 608487547,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-20T17:03:02Z",
+                "open_issues": 3,
                 "owner": "open-spaced-repetition",
                 "repo": "rs-fsrs",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "hacktoberfest",
+                  "rust",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -158,12 +228,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. ",
+                "homepage": "https://open-spaced-repetition.github.io/ts-fsrs/",
                 "id": 609765386,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:26:39Z",
+                "open_issues": 9,
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 769
+                "stars": 769,
+                "topics": [
+                  "fsrs",
+                  "open-spaced-repetition",
+                  "osr",
+                  "spaced-repetition-algorithm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -181,12 +262,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Module for FSRS",
+                "homepage": null,
                 "id": 506068983,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-25T14:51:39Z",
+                "open_issues": 4,
                 "owner": "open-spaced-repetition",
                 "repo": "go-fsrs",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "fsrs",
+                  "go",
+                  "golang",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -204,12 +295,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java binding for rs-fsrs",
+                "homepage": null,
                 "id": 864481694,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-03T20:57:58Z",
+                "open_issues": 2,
                 "owner": "open-spaced-repetition",
                 "repo": "rs-fsrs-java",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "fsrs",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -227,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FSRS for Scala",
+                "homepage": null,
                 "id": 1149127832,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-13T09:01:02Z",
+                "open_issues": 0,
                 "owner": "jwbargsten",
                 "repo": "fsrs4s",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -250,12 +354,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C/C++ binding for rs-fsrs",
+                "homepage": null,
                 "id": 860067822,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-06-11T09:52:23Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "rs-fsrs-c",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "fsrs",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -273,12 +385,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nodejs binding for rs-fsrs.",
+                "homepage": null,
                 "id": 864636971,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-23T10:52:39Z",
+                "open_issues": 3,
                 "owner": "open-spaced-repetition",
                 "repo": "rs-fsrs-nodejs",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "fsrs",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -296,12 +416,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dart Package for FSRS",
+                "homepage": null,
                 "id": 788262541,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2025-06-20T05:54:09Z",
+                "open_issues": 4,
                 "owner": "open-spaced-repetition",
                 "repo": "dart-fsrs",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "fsrs",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -319,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift Package for FSRS",
+                "homepage": null,
                 "id": 679310092,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-05-25T10:24:17Z",
+                "open_issues": 5,
                 "owner": "open-spaced-repetition",
                 "repo": "swift-fsrs",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -342,12 +475,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Clojure(script) implementation of FSRS v4 from open-spaced-repetition",
+                "homepage": null,
                 "id": 667965979,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2025-09-25T01:38:18Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "cljc-fsrs",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "clojure",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -365,12 +506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ruby implementation of the  Open Spaced Repetition's Free Spaced Repetition Scheduler",
+                "homepage": null,
                 "id": 794345327,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-04-26T17:57:34Z",
+                "open_issues": 3,
                 "owner": "open-spaced-repetition",
                 "repo": "rb-fsrs",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -388,12 +534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin version of FSRS",
+                "homepage": null,
                 "id": 1028692433,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2025-08-07T13:34:38Z",
+                "open_issues": 1,
                 "owner": "open-spaced-repetition",
                 "repo": "FSRS-Kotlin",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             },
@@ -404,12 +555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 706218694,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2023-10-17T14:37:27Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "android-fsrs",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -427,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elixir implementation of FSRS",
+                "homepage": null,
                 "id": 672535934,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-05-13T08:11:40Z",
+                "open_issues": 2,
                 "owner": "open-spaced-repetition",
                 "repo": "ex_fsrs",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -450,12 +611,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCaml implementation of the FSRS algorithm (scheduler only)",
+                "homepage": null,
                 "id": 980390875,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2025-05-24T17:37:14Z",
+                "open_issues": 0,
                 "owner": "chaosarium",
                 "repo": "ocaml-fsrs",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "fsrs",
+                  "spaced-repetition-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -473,12 +642,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common/Emacs Lisp implementation for FSRS",
+                "homepage": null,
                 "id": 891601826,
                 "language": "Common Lisp",
+                "license": "MIT",
                 "last_commit": "2025-11-19T16:31:16Z",
+                "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "lisp-fsrs",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "emacs",
+                  "fsrs",
+                  "lisp",
+                  "spaced-repetition"
+                ]
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -496,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell FSRS 7.0.0 algorithm implementation.",
+                "homepage": "https://hackage.haskell.org/package/haskell-fsrs-7.0.0",
                 "id": 1340578278,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2026-08-21T17:07:33Z",
+                "open_issues": 0,
                 "owner": "kutyel",
                 "repo": "haskell-fsrs",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:12:30.581Z"
             }
@@ -524,12 +708,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a multi-language bindings generator for rust",
+                    "homepage": "https://mozilla.github.io/uniffi-rs/",
                     "id": 271210496,
                     "language": "Rust",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-25T10:52:19Z",
+                    "open_issues": 282,
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 4902
+                    "stars": 4903,
+                    "topics": [
+                      "ffi-layer",
+                      "rust-crate"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -547,12 +739,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rust-based Scheduler for FSRS",
+                    "homepage": "https://crates.io/crates/rs-fsrs",
                     "id": 608487547,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-07-20T17:03:02Z",
+                    "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "rs-fsrs",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "hacktoberfest",
+                      "rust",
+                      "spaced-repetition-algorithm"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -570,12 +771,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FSRS for Rust, including Optimizer and Scheduler",
+                    "homepage": "https://crates.io/crates/fsrs",
                     "id": 679353662,
                     "language": "Rust",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T11:52:20Z",
+                    "open_issues": 9,
                     "owner": "open-spaced-repetition",
                     "repo": "fsrs-rs",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": [
+                      "fsrs",
+                      "machine-learning",
+                      "rust",
+                      "spaced-repetition-algorithm"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -584,12 +795,34 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Learn Japanese in your own language - vocabulary, kanji, grammar & 200K+ native phrases. JLPT prep, offline-first, FSRS spaced repetition. Rust + Tauri.",
+                "homepage": "https://origa.uwuwu.net",
                 "id": 1068530013,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T06:47:36Z",
+                "open_issues": 13,
                 "owner": "yurvon-screamo",
                 "repo": "origa",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "anki",
+                  "desktop",
+                  "duolingo",
+                  "flashcards",
+                  "fsrs",
+                  "japanese",
+                  "jlpt",
+                  "kanji",
+                  "language-learning",
+                  "learning-japanese",
+                  "leptos",
+                  "ocr",
+                  "rust",
+                  "spaced-repetition",
+                  "tauri",
+                  "vocabulary"
+                ]
               },
               "title": "Origa",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -603,12 +836,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. ",
+                    "homepage": "https://open-spaced-repetition.github.io/ts-fsrs/",
                     "id": 609765386,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T09:26:39Z",
+                    "open_issues": 9,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 769
+                    "stars": 769,
+                    "topics": [
+                      "fsrs",
+                      "open-spaced-repetition",
+                      "osr",
+                      "spaced-repetition-algorithm",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -623,12 +867,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Spaced repetition for AI agents — CLI and MCP server for Anki flashcards",
+                "homepage": null,
                 "id": 1203371707,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-26T00:42:49Z",
+                "open_issues": 1,
                 "owner": "wpwilson10",
                 "repo": "spacedrep",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "anki",
+                  "cli",
+                  "flashcards",
+                  "fsrs",
+                  "mcp",
+                  "python",
+                  "spaced-repetition"
+                ]
               },
               "title": "spacedrep",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -649,12 +906,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Add comments to highlighted notes, use AI for thinking, and flashcards for memory.",
+                    "homepage": "https://hinote.vip",
                     "id": 899782303,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-07T02:33:44Z",
+                    "open_issues": 40,
                     "owner": "CatMuse",
                     "repo": "HiNote",
-                    "stars": 255
+                    "stars": 255,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 },
@@ -665,12 +927,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md",
+                    "homepage": "https://www.stephenmwangi.com/obsidian-spaced-repetition/",
                     "id": 615563039,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-21T04:44:56Z",
+                    "open_issues": 14,
                     "owner": "open-spaced-repetition",
                     "repo": "obsidian-spaced-repetition-recall",
-                    "stars": 210
+                    "stars": 210,
+                    "topics": [
+                      "obsidian-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 },
@@ -681,12 +950,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools.",
+                    "homepage": "https://ctrlaltwill.github.io/LearnKit/",
                     "id": 1132086156,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T00:59:18Z",
+                    "open_issues": 16,
                     "owner": "ctrlaltwill",
                     "repo": "LearnKit",
-                    "stars": 165
+                    "stars": 165,
+                    "topics": [
+                      "anki",
+                      "education",
+                      "flashcards",
+                      "fsrs",
+                      "image-occlusion",
+                      "learning",
+                      "markdown",
+                      "note-taking",
+                      "obsidian",
+                      "obsidian-plugin",
+                      "productivity",
+                      "spaced-repetition",
+                      "study"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 },
@@ -697,12 +985,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native spaced repetition for Obsidian: AI-generated flashcards, FSRS v6 scheduling, image occlusion and retention analytics — without leaving your vault.",
+                    "homepage": "https://truerecall.app",
                     "id": 1126132370,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-23T18:20:56Z",
+                    "open_issues": 2,
                     "owner": "pieralukasz",
                     "repo": "true-recall",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": [
+                      "active-recall",
+                      "anki",
+                      "flashcards",
+                      "fsrs",
+                      "learning",
+                      "obsidian",
+                      "obsidian-plugin",
+                      "spaced-repetition",
+                      "srs",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -717,12 +1021,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A feature-rich and flexible spaced repetition system inside Org-mode",
+                "homepage": null,
                 "id": 893493502,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-28T18:15:53Z",
+                "open_issues": 11,
                 "owner": "bohonghuang",
                 "repo": "org-srs",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "title": "Org-srs",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -733,12 +1042,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Spaced Repetition System for Emacs org-mode",
+                "homepage": "https://www.leonrische.me/fc/index.html",
                 "id": 233243867,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-17T21:38:26Z",
+                "open_issues": 35,
                 "owner": "l3kn",
                 "repo": "org-fc",
-                "stars": 295
+                "stars": 295,
+                "topics": [
+                  "emacs",
+                  "org-mode",
+                  "spaced-repetition"
+                ]
               },
               "title": "Org-fc",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -749,12 +1067,37 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+                "homepage": "https://b3log.org/siyuan",
                 "id": 291438522,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:36:43Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:27:09Z",
+                "open_issues": 49,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 46023
+                "stars": 46025,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agent",
+                  "digital-garden",
+                  "electron",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "local-first",
+                  "markdown",
+                  "mcp",
+                  "note-taking",
+                  "notebook",
+                  "notes-app",
+                  "pdf",
+                  "pkm",
+                  "s3",
+                  "self-hosted",
+                  "siyuan",
+                  "webdav",
+                  "wiki"
+                ]
               },
               "title": "SiYuan",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -765,12 +1108,27 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.",
+                "homepage": "https://tiddlywiki.com/",
                 "id": 2828239,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T16:24:43Z",
+                "open_issues": 1160,
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8632
+                "stars": 8632,
+                "topics": [
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "linux",
+                  "notepad",
+                  "notes",
+                  "tiddlywiki",
+                  "wiki",
+                  "windows"
+                ]
               },
               "title": "TiddlyWiki",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -784,12 +1142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 971501244,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-04T11:47:58Z",
+                    "open_issues": 0,
                     "owner": "jiangege",
                     "repo": "srs-everything",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -811,12 +1174,26 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "An approachable incremental reading app.",
+                "homepage": "https://foliole.app",
                 "id": 1019204023,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T21:01:31Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:38:11Z",
+                "open_issues": 0,
                 "owner": "campfirium",
                 "repo": "foliole",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "fsrs",
+                  "incremental-reading",
+                  "knowledge-management",
+                  "learning",
+                  "note-taking",
+                  "personal-knowledge-management",
+                  "reading",
+                  "spaced-repetition"
+                ]
               },
               "title": "Foliole",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -837,12 +1214,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. ",
+                    "homepage": "https://open-spaced-repetition.github.io/ts-fsrs/",
                     "id": 609765386,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T09:26:39Z",
+                    "open_issues": 9,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 769
+                    "stars": 769,
+                    "topics": [
+                      "fsrs",
+                      "open-spaced-repetition",
+                      "osr",
+                      "spaced-repetition-algorithm",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -857,12 +1245,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "a hierarchical spaced-repetition system for learning structurally related materials.",
+                "homepage": null,
                 "id": 880036476,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-14T18:38:49Z",
+                "open_issues": 1,
                 "owner": "satchelspencer",
                 "repo": "hsrs",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "title": "HSRS",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -876,12 +1269,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python Package for FSRS Spaced Repetition",
+                    "homepage": "https://pypi.org/project/fsrs",
                     "id": 571532439,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-09T04:35:03Z",
+                    "open_issues": 0,
                     "owner": "open-spaced-repetition",
                     "repo": "py-fsrs",
-                    "stars": 477
+                    "stars": 477,
+                    "topics": [
+                      "flashcard",
+                      "fsrs",
+                      "spaced-repetition"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -896,12 +1298,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered sentence-first vocabulary learning for Windows, with multilingual feedback, usage cards, automatic evidence-based grading, and FSRS-6 scheduling.",
+                "homepage": null,
                 "id": 1344874800,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:22:25Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:36:39Z",
+                "open_issues": 1,
                 "owner": "ArabidopsisDev",
                 "repo": "Word2Sentence",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "title": "Word2Sentence",
               "first_seen": "2026-08-28T21:12:30.581Z"
@@ -928,12 +1335,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A benchmark for spaced repetition schedulers/algorithms",
+                    "homepage": "https://github.com/open-spaced-repetition/fsrs4anki/wiki",
                     "id": 703520789,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-28T20:58:40Z",
+                    "license": null,
+                    "last_commit": "2026-08-29T03:08:54Z",
+                    "open_issues": 16,
                     "owner": "open-spaced-repetition",
                     "repo": "srs-benchmark",
-                    "stars": 257
+                    "stars": 257,
+                    "topics": [
+                      "benchmark",
+                      "deep-learning",
+                      "fsrs",
+                      "machine-learning",
+                      "research",
+                      "rwkv",
+                      "spaced-repetition",
+                      "spaced-repetition-algorithm"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 },
@@ -949,12 +1370,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of awesome FSRS implementations, papers and resources",
+                        "homepage": "https://open-spaced-repetition.github.io/awesome-fsrs/",
                         "id": 853732915,
                         "language": null,
+                        "license": "CC0-1.0",
                         "last_commit": "2026-08-25T04:31:08Z",
+                        "open_issues": 5,
                         "owner": "open-spaced-repetition",
                         "repo": "awesome-fsrs",
-                        "stars": 672
+                        "stars": 671,
+                        "topics": [
+                          "awesome-list",
+                          "fsrs",
+                          "learning",
+                          "memory",
+                          "spaced-repetition",
+                          "spaced-repetition-algorithm",
+                          "spaced-repetition-scheduler"
+                        ]
                       },
                       "first_seen": "2026-08-28T21:12:30.581Z"
                     }
@@ -979,12 +1413,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling",
+                        "homepage": "https://www.maimemo.com/paper/",
                         "id": 448610646,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-11-28T06:18:47Z",
+                        "open_issues": 1,
                         "owner": "maimemo",
                         "repo": "SSP-MMC",
-                        "stars": 219
+                        "stars": 219,
+                        "topics": [
+                          "optimal-control",
+                          "research-paper",
+                          "spaced-repetition",
+                          "spaced-repetition-algorithm"
+                        ]
                       },
                       "first_seen": "2026-08-28T21:12:30.581Z"
                     },
@@ -995,12 +1439,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory",
+                        "homepage": "https://doi.org/10.1109/TKDE.2023.3251721",
                         "id": 512372470,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-03-14T11:42:48Z",
+                        "open_issues": 0,
                         "owner": "maimemo",
                         "repo": "SSP-MMC-Plus",
-                        "stars": 72
+                        "stars": 72,
+                        "topics": [
+                          "paper",
+                          "reproducibility",
+                          "spaced-repetition-algorithm"
+                        ]
                       },
                       "first_seen": "2026-08-28T21:12:30.581Z"
                     }
@@ -1020,12 +1473,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 60541674,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-20T08:26:18Z",
+                    "open_issues": 6,
                     "owner": "duolingo",
                     "repo": "halflife-regression",
-                    "stars": 576
+                    "stars": 576,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 },
@@ -1036,12 +1494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 60541674,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-20T08:26:18Z",
+                    "open_issues": 6,
                     "owner": "duolingo",
                     "repo": "halflife-regression",
-                    "stars": 576
+                    "stars": 576,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
@@ -1060,15 +1523,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:12:30.581Z",
+    "last_updated": "2026-08-29T04:38:24.076Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome FSRS implementations, papers and resources",
+      "homepage": "https://open-spaced-repetition.github.io/awesome-fsrs/",
       "id": 853732915,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-25T04:31:08Z",
+      "open_issues": 5,
       "owner": "open-spaced-repetition",
       "repo": "awesome-fsrs",
-      "stars": 672
+      "stars": 671,
+      "topics": [
+        "awesome-list",
+        "fsrs",
+        "learning",
+        "memory",
+        "spaced-repetition",
+        "spaced-repetition-algorithm",
+        "spaced-repetition-scheduler"
+      ]
     },
     "original_repository_sha": "1667eb4e7892b84a42cdb623da3a2115414e458b",
     "enhanced_repository": "enhansome/enhansome-fsrs",
