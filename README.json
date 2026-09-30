@@ -24,7 +24,7 @@
                 "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "py-fsrs",
-                "stars": 498,
+                "stars": 499,
                 "topics": [
                   "flashcard",
                   "fsrs",
@@ -717,7 +717,7 @@
                     "open_issues": 297,
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 4997,
+                    "stars": 5002,
                     "topics": [
                       "ffi-layer",
                       "rust-crate"
@@ -834,11 +834,11 @@
                 "id": 1068530013,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T11:50:17Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-30T13:59:40Z",
+                "open_issues": 26,
                 "owner": "yurvon-screamo",
                 "repo": "origa",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "anki",
                   "cross-platform",
@@ -912,11 +912,11 @@
                     "id": 967738751,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T13:57:01Z",
-                    "open_issues": 83,
+                    "last_commit": "2026-09-30T15:47:37Z",
+                    "open_issues": 82,
                     "owner": "mengxi-ream",
                     "repo": "read-frog",
-                    "stars": 9923,
+                    "stars": 9940,
                     "topics": [
                       "browser-extension",
                       "chinese",
@@ -1067,7 +1067,7 @@
                     "open_issues": 20,
                     "owner": "ctrlaltwill",
                     "repo": "LearnKit",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": [
                       "anki",
                       "education",
@@ -1159,7 +1159,7 @@
                 "open_issues": 35,
                 "owner": "l3kn",
                 "repo": "org-fc",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "emacs",
                   "org-mode",
@@ -1180,11 +1180,11 @@
                 "id": 291438522,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T15:26:43Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-30T16:19:34Z",
+                "open_issues": 12,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 46557,
+                "stars": 46576,
                 "topics": [
                   "agentic-ai",
                   "ai-agent",
@@ -1211,11 +1211,11 @@
                 "id": 2828239,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T08:03:08Z",
-                "open_issues": 1174,
+                "last_commit": "2026-09-29T16:33:20Z",
+                "open_issues": 1175,
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8667,
+                "stars": 8668,
                 "topics": [
                   "hacktoberfest",
                   "html",
@@ -1277,11 +1277,11 @@
                 "id": 1019204023,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T14:00:12Z",
+                "last_commit": "2026-09-30T13:32:51Z",
                 "open_issues": 4,
                 "owner": "campfirium",
                 "repo": "foliole",
-                "stars": 130,
+                "stars": 132,
                 "topics": [
                   "fsrs",
                   "incremental-reading",
@@ -1447,7 +1447,7 @@
                     "open_issues": 0,
                     "owner": "open-spaced-repetition",
                     "repo": "py-fsrs",
-                    "stars": 498,
+                    "stars": 499,
                     "topics": [
                       "flashcard",
                       "fsrs",
@@ -1547,7 +1547,7 @@
                     "open_issues": 18,
                     "owner": "open-spaced-repetition",
                     "repo": "srs-benchmark",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": [
                       "benchmark",
                       "deep-learning",
@@ -1582,7 +1582,7 @@
                         "open_issues": 6,
                         "owner": "open-spaced-repetition",
                         "repo": "awesome-fsrs",
-                        "stars": 707,
+                        "stars": 708,
                         "topics": [
                           "awesome-list",
                           "fsrs",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:30:51.677Z",
+    "last_updated": "2026-09-30T16:24:33.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FSRS implementations, papers and resources",
@@ -1738,7 +1738,7 @@
       "open_issues": 6,
       "owner": "open-spaced-repetition",
       "repo": "awesome-fsrs",
-      "stars": 707,
+      "stars": 708,
       "topics": [
         "awesome-list",
         "fsrs",
