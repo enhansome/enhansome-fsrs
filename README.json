@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v6) + Optimizer: py-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/py-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Optimizer (v6): fsrs-optimizer",
-              "description": null,
+              "description": "open-spaced-repetition/fsrs-optimizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -62,7 +62,7 @@
             {
               "node_type": "item",
               "title": "Optimizer (v6): fsrs-rs-python",
-              "description": null,
+              "description": "open-spaced-repetition/fsrs-rs-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -87,7 +87,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): rs-fsrs-python",
-              "description": null,
+              "description": "open-spaced-repetition/rs-fsrs-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -110,7 +110,7 @@
             {
               "node_type": "item",
               "title": "[Deprecated] Optimizer: fsrs-optimizer-tiny",
-              "description": null,
+              "description": "open-spaced-repetition/fsrs-optimizer-tiny",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -138,12 +138,12 @@
             {
               "node_type": "item",
               "title": "Scheduler (v6) + Optimizer: fsrs-rs",
-              "description": null,
+              "description": "open-spaced-repetition/fsrs-rs",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Run in browsers: fsrs-browser",
-                  "description": null,
+                  "description": "open-spaced-repetition/fsrs-browser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -192,7 +192,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): rs-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/rs-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,7 +224,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v6): ts-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/ts-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -233,11 +233,11 @@
                 "id": 609765386,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T09:30:02Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T04:09:23Z",
+                "open_issues": 5,
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 803,
+                "stars": 804,
                 "topics": [
                   "fsrs",
                   "open-spaced-repetition",
@@ -258,7 +258,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): go-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/go-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,7 +291,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): rs-fsrs-java",
-              "description": null,
+              "description": "open-spaced-repetition/rs-fsrs-java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -322,7 +322,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v6): fsrs4s",
-              "description": null,
+              "description": "jwbargsten/fsrs4s",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -350,7 +350,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): rs-fsrs-c",
-              "description": null,
+              "description": "open-spaced-repetition/rs-fsrs-c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -381,7 +381,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): rs-fsrs-nodejs",
-              "description": null,
+              "description": "open-spaced-repetition/rs-fsrs-nodejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v4.5): dart-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/dart-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +443,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): swift-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/swift-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v4): cljc-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/cljc-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,7 +502,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v4): rb-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/rb-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -530,7 +530,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v6): FSRS-Kotlin",
-              "description": null,
+              "description": "open-spaced-repetition/FSRS-Kotlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -551,7 +551,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v4): android-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/android-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -579,7 +579,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v4): ex_fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/ex_fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v5): ocaml-fsrs",
-              "description": null,
+              "description": "chaosarium/ocaml-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v6): lisp-fsrs",
-              "description": null,
+              "description": "open-spaced-repetition/lisp-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -671,7 +671,7 @@
             {
               "node_type": "item",
               "title": "Scheduler (v7): haskell-fsrs",
-              "description": null,
+              "description": "kutyel/haskell-fsrs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
                 {
                   "node_type": "item",
                   "title": "Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through UniFFI",
-                  "description": ".",
+                  "description": "mozilla/uniffi-rs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -735,7 +735,7 @@
                 {
                   "node_type": "item",
                   "title": "FSRS scheduled flashcard reviews that rely on rs-fsrs",
-                  "description": null,
+                  "description": "open-spaced-repetition/rs-fsrs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -776,11 +776,11 @@
                     "id": 609765386,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T09:30:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -878,11 +878,11 @@
                     "id": 609765386,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T09:30:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -912,11 +912,11 @@
                     "id": 967738751,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T15:45:20Z",
-                    "open_issues": 80,
+                    "last_commit": "2026-10-03T04:33:46Z",
+                    "open_issues": 78,
                     "owner": "mengxi-ream",
                     "repo": "read-frog",
-                    "stars": 9952,
+                    "stars": 9956,
                     "topics": [
                       "browser-extension",
                       "chinese",
@@ -949,11 +949,11 @@
                     "id": 609765386,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T09:30:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1064,7 +1064,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-09-14T01:48:31Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "ctrlaltwill",
                     "repo": "LearnKit",
                     "stars": 178,
@@ -1180,11 +1180,11 @@
                 "id": 291438522,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T16:01:57Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-03T03:25:02Z",
+                "open_issues": 16,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 46606,
+                "stars": 46616,
                 "topics": [
                   "agentic-ai",
                   "ai-agent",
@@ -1215,7 +1215,7 @@
                 "open_issues": 1175,
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8670,
+                "stars": 8671,
                 "topics": [
                   "hacktoberfest",
                   "html",
@@ -1236,7 +1236,7 @@
                 {
                   "node_type": "item",
                   "title": "ZKMemo integrates FSRS-6, implemented using the srs-everything",
-                  "description": ".",
+                  "description": "jiangege/srs-everything",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1277,7 +1277,7 @@
                 "id": 1019204023,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:30:10Z",
+                "last_commit": "2026-10-03T03:30:13Z",
                 "open_issues": 2,
                 "owner": "campfirium",
                 "repo": "foliole",
@@ -1317,11 +1317,11 @@
                     "id": 609765386,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T09:30:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1372,11 +1372,11 @@
                     "id": 609765386,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T09:30:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1399,7 +1399,7 @@
                     "id": 1362417756,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T04:42:56Z",
+                    "last_commit": "2026-10-02T16:43:45Z",
                     "open_issues": 0,
                     "owner": "leoon-hu",
                     "repo": "jiaci",
@@ -1434,7 +1434,7 @@
                 {
                   "node_type": "item",
                   "title": "Available on web.",
-                  "description": null,
+                  "description": "open-spaced-repetition/py-fsrs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1475,11 +1475,11 @@
                     "id": 609765386,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T09:30:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 803,
+                    "stars": 804,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1534,7 +1534,7 @@
                 {
                   "node_type": "item",
                   "title": "Benchmark: open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)",
-                  "description": null,
+                  "description": "open-spaced-repetition/srs-benchmark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1560,42 +1560,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T21:12:30.581Z"
-                },
-                {
-                  "node_type": "group",
-                  "title": "Math:",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "The Algorithm · open-spaced-repetition/awesome-fsrs Wiki",
-                      "description": null,
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "A curated list of awesome FSRS implementations, papers and resources",
-                        "homepage": "https://open-spaced-repetition.github.io/awesome-fsrs/",
-                        "id": 853732915,
-                        "language": null,
-                        "license": "CC0-1.0",
-                        "last_commit": "2026-09-29T09:38:24Z",
-                        "open_issues": 7,
-                        "owner": "open-spaced-repetition",
-                        "repo": "awesome-fsrs",
-                        "stars": 711,
-                        "topics": [
-                          "awesome-list",
-                          "fsrs",
-                          "learning",
-                          "memory",
-                          "spaced-repetition",
-                          "spaced-repetition-algorithm",
-                          "spaced-repetition-scheduler"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T21:12:30.581Z"
-                    }
-                  ]
                 }
               ],
               "description": null,
@@ -1612,7 +1576,7 @@
                     {
                       "node_type": "item",
                       "title": "maimemo/SSP-MMC: A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling",
-                      "description": null,
+                      "description": "maimemo/SSP-MMC",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1638,7 +1602,7 @@
                     {
                       "node_type": "item",
                       "title": "maimemo/SSP-MMC-Plus: Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory",
-                      "description": null,
+                      "description": "maimemo/SSP-MMC-Plus",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1672,7 +1636,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository: duolingo/halflife-regression",
-                  "description": null,
+                  "description": "duolingo/halflife-regression",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1693,7 +1657,7 @@
                 {
                   "node_type": "item",
                   "title": "Paper: A Trainable Spaced Repetition Model for Language Learning",
-                  "description": null,
+                  "description": "duolingo/halflife-regression",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1726,7 +1690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:16:21.038Z",
+    "last_updated": "2026-10-03T04:44:37.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FSRS implementations, papers and resources",
