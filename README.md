@@ -107,7 +107,7 @@ MySummaries builds a spatial study board from a learner's own material — PDFs,
 * `enable_fuzz: true` and `maximum_interval: 365`, so a batch of cards generated together stops arriving together, and nothing is scheduled beyond a year.
 * Questions missed in a written paper or an oral are turned back into cards automatically, deduplicated against the existing deck.
 
-#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 11 | 🐛 28 | 🌐 Rust | 📅 2026-10-01
+#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 11 | 🐛 25 | 🌐 Rust | 📅 2026-10-03
 
 Open source Japanese learning app for desktop (Windows, Linux, macOS) and Android. Built-in dictionaries, kanji, grammar, and phrases — all scheduled with FSRS. Russian and English. Offline-first.
 
@@ -126,7 +126,7 @@ Quanta is an AI-powered flashcard and exam platform for German-speaking students
 
 Read Frog is an AI-powered language-learning platform centered on an open-source browser extension. It turns web pages and videos into an immersive study experience with bilingual page translation, streaming selection translation, context-aware explanations and article analysis, text-to-speech, and YouTube subtitle generation and translation—even for videos without captions. Users can bring their own models from more than 20 AI providers or use Read Frog's built-in AI.
 
-* The [GPLv3-licensed browser extension](https://github.com/mengxi-ream/read-frog) ⭐ 9,956 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-03 is available for Chrome, Edge, and Firefox.
+* The [GPLv3-licensed browser extension](https://github.com/mengxi-ream/read-frog) ⭐ 9,957 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-03 is available for Chrome, Edge, and Firefox.
 * Its end-to-end spaced-repetition system uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 804 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03 with the FSRS-6 model, middleware-based scheduling, and policy-driven review queues. A per-Notebase optimizer personalizes scheduling from review history.
 * Custom AI Actions turn selected text into reusable tools for dictionaries, explanations, rewriting, and other workflows; their structured results can be mapped directly into Notebase.
 * Vocabulary, definitions, example sentences, translations, and reading notes can be saved without leaving the current page, then converted into flashcards with customizable templates.
@@ -175,7 +175,7 @@ A personal notes, journaling, knowledge base, and project management application
 
 * [LearnKit](https://github.com/ctrlaltwill/LearnKit) ⭐ 178 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14 helps you remember what you write. It brings flashcards, note review, tests, and AI-assisted study tools into Obsidian, so your vault becomes a place to learn, not just store information. It uses FSRS-6 for spaced repetition scheduling.
 
-* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 65 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-02 is a next-gen spaced repetition system for Obsidian with AI card generation, local-first SQLite storage, Anki import/export, projects system, and comprehensive analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 804 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03.
+* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 65 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03 is a next-gen spaced repetition system for Obsidian with AI card generation, local-first SQLite storage, Anki import/export, projects system, and comprehensive analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 804 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03.
 
 #### [Org-srs](https://github.com/bohonghuang/org-srs) ⭐ 127 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-06-28
 
@@ -199,13 +199,13 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,616 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-03
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,624 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-03
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 
 SiYuan's uses FSRS-5: [riff](https://github.com/siyuan-note/riff) ⭐ 49 | 🐛 0 | 🌐 Go | 📅 2026-08-23
 
-#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,671 | 🐛 1,175 | 🌐 JavaScript | 📅 2026-09-29
+#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,672 | 🐛 1,175 | 🌐 JavaScript | 📅 2026-09-29
 
 TiddlyWiki is a customizable single HTML file personal wiki for creating interlinked notes. Its open-source nature and plugin ecosystem make it adaptable for various uses, from project management to knowledge systems. With the FSRS plugin, TiddlyWiki can also be used as a flashcard app for learning and memorization.
 
@@ -265,7 +265,7 @@ Used to power [grsly](https://grsly.com/), a tool for learning Japanese grammar.
 **Jiaci** is an open-source web app for Chinese speakers learning English vocabulary: pick a built-in word list (IELTS, TOEFL, GRE, CET, academic and everyday-life lists) or import your own, study a daily queue of cards, and rate each one *know* / *fuzzy*.
 
 * Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 804 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03 to schedule reviews (no learning steps, day-level scheduling); a word whose scheduled interval reaches a configurable threshold is marked mastered.
-* Chinese UI only. [Source on GitHub](https://github.com/leoon-hu/jiaci) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 (MIT; Next.js + PostgreSQL).
+* Chinese UI only. [Source on GitHub](https://github.com/leoon-hu/jiaci) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02 (MIT; Next.js + PostgreSQL).
 * Word entries (core meaning, senses, examples, collocations, word family, mnemonics, etymology) are pre-generated offline by an LLM and shared by all users; server-side neural TTS for words, examples and definitions.
 
 #### [KaChiKa](https://kachika.app/)
@@ -350,8 +350,8 @@ See [announcement blog post](https://cesardelsolar.com/posts/2024-10-13-wordvaul
 
 An algorithm made particularly for second language acquisition. The HLR model marries psycholinguistic theory with modern machine learning techniques, estimating the "half-life" of words (and potentially any other item or fact) in a student's long-term memory.
 
-* GitHub repository: [duolingo/halflife-regression](https://github.com/duolingo/halflife-regression) ⭐ 581 | 🐛 6 | 🌐 Python | 📅 2024-04-20
-* Paper: [A Trainable Spaced Repetition Model for Language Learning](https://github.com/duolingo/halflife-regression/blob/master/settles.acl16.pdf) ⭐ 581 | 🐛 6 | 🌐 Python | 📅 2024-04-20
+* GitHub repository: [duolingo/halflife-regression](https://github.com/duolingo/halflife-regression) ⭐ 582 | 🐛 6 | 🌐 Python | 📅 2024-04-20
+* Paper: [A Trainable Spaced Repetition Model for Language Learning](https://github.com/duolingo/halflife-regression/blob/master/settles.acl16.pdf) ⭐ 582 | 🐛 6 | 🌐 Python | 📅 2024-04-20
 
 #### DASH
 
