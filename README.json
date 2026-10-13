@@ -24,7 +24,7 @@
                 "open_issues": 0,
                 "owner": "open-spaced-repetition",
                 "repo": "py-fsrs",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "flashcard",
                   "fsrs",
@@ -237,7 +237,7 @@
                 "open_issues": 5,
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 813,
+                "stars": 814,
                 "topics": [
                   "fsrs",
                   "open-spaced-repetition",
@@ -271,7 +271,7 @@
                 "open_issues": 4,
                 "owner": "open-spaced-repetition",
                 "repo": "go-fsrs",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "fsrs",
                   "go",
@@ -713,11 +713,11 @@
                     "id": 271210496,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-12T14:03:07Z",
+                    "last_commit": "2026-10-13T00:31:07Z",
                     "open_issues": 298,
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 5023,
+                    "stars": 5025,
                     "topics": [
                       "ffi-layer",
                       "rust-crate"
@@ -780,7 +780,7 @@
                     "open_issues": 0,
                     "owner": "open-spaced-repetition",
                     "repo": "py-fsrs",
-                    "stars": 507,
+                    "stars": 508,
                     "topics": [
                       "flashcard",
                       "fsrs",
@@ -812,7 +812,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -866,11 +866,11 @@
                 "id": 1068530013,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T16:28:44Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-13T17:16:55Z",
+                "open_issues": 38,
                 "owner": "yurvon-screamo",
                 "repo": "origa",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "anki",
                   "cross-platform",
@@ -914,7 +914,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -944,11 +944,11 @@
                     "id": 967738751,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-12T04:26:04Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-10-13T14:13:41Z",
+                    "open_issues": 79,
                     "owner": "mengxi-ream",
                     "repo": "read-frog",
-                    "stars": 10057,
+                    "stars": 10066,
                     "topics": [
                       "browser-extension",
                       "chinese",
@@ -985,7 +985,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1243,11 +1243,11 @@
                 "id": 291438522,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-12T16:55:43Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T16:15:14Z",
+                "open_issues": 7,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 46734,
+                "stars": 46743,
                 "topics": [
                   "agentic-ai",
                   "ai-agent",
@@ -1275,10 +1275,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T12:06:58Z",
-                "open_issues": 1186,
+                "open_issues": 1189,
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
-                "stars": 8684,
+                "stars": 8689,
                 "topics": [
                   "hacktoberfest",
                   "html",
@@ -1340,7 +1340,7 @@
                 "id": 1019204023,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T12:37:28Z",
+                "last_commit": "2026-10-13T14:30:11Z",
                 "open_issues": 8,
                 "owner": "campfirium",
                 "repo": "foliole",
@@ -1384,7 +1384,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1439,7 +1439,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1462,7 +1462,7 @@
                     "id": 1362417756,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T16:43:45Z",
+                    "last_commit": "2026-10-13T17:02:32Z",
                     "open_issues": 0,
                     "owner": "leoon-hu",
                     "repo": "jiaci",
@@ -1510,7 +1510,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1571,7 +1571,7 @@
                     "open_issues": 0,
                     "owner": "open-spaced-repetition",
                     "repo": "py-fsrs",
-                    "stars": 507,
+                    "stars": 508,
                     "topics": [
                       "flashcard",
                       "fsrs",
@@ -1603,7 +1603,7 @@
                     "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 813,
+                    "stars": 814,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1618,6 +1618,40 @@
               "description": "MemPro is a web app for learning programming with spaced repetition. Besides concept cards, it has code exercises: you write C++, Python, Rust, TypeScript or Zig in the browser, and a sandbox runs tests against your solution. You then rate how well you remembered the card.",
               "node_type": "group",
               "title": "MemPro"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Uses ts-fsrs",
+                  "description": "(FSRS-6) at 90% desired retention to schedule every card.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. ",
+                    "homepage": "https://open-spaced-repetition.github.io/ts-fsrs/",
+                    "id": 609765386,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-11T08:29:20Z",
+                    "open_issues": 5,
+                    "owner": "open-spaced-repetition",
+                    "repo": "ts-fsrs",
+                    "stars": 814,
+                    "topics": [
+                      "fsrs",
+                      "open-spaced-repetition",
+                      "osr",
+                      "spaced-repetition-algorithm",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T21:12:30.581Z"
+                }
+              ],
+              "description": "Verbamor is an iOS app for people who take language lessons or have real conversations in a new language. It records the lesson, transcribes it, and turns the words and phrases you met into flashcards, each with a picture, an example sentence and audio. It covers Spanish, French, Italian, Portuguese and Russian.\nAvailable on App Store.",
+              "node_type": "group",
+              "title": "Verbamor"
             },
             {
               "children": [],
@@ -1814,7 +1848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:48:11.233Z",
+    "last_updated": "2026-10-13T17:35:59.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FSRS implementations, papers and resources",
@@ -1822,11 +1856,11 @@
       "id": 853732915,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-09T02:01:49Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-13T06:23:02Z",
+      "open_issues": 7,
       "owner": "open-spaced-repetition",
       "repo": "awesome-fsrs",
-      "stars": 717,
+      "stars": 720,
       "topics": [
         "awesome-list",
         "fsrs",
@@ -1837,7 +1871,7 @@
         "spaced-repetition-scheduler"
       ]
     },
-    "original_repository_sha": "ff20ec618296967d6fd1587c0743fbf580e350cb",
+    "original_repository_sha": "1c0e597f5e55c1ef903b6bf0360b68b74d369759",
     "enhanced_repository": "enhansome/enhansome-fsrs",
     "enhanced_repository_description": null,
     "title": "Awesome FSRS with stars"
