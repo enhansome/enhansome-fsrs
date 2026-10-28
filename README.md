@@ -13,13 +13,13 @@ A curated list of awesome FSRS implementations, papers and resources. Feel free 
   * Scheduler (v5): [rs-fsrs-python](https://github.com/open-spaced-repetition/rs-fsrs-python) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2024-10-18
   * \[Deprecated] Optimizer: [fsrs-optimizer-tiny](https://github.com/open-spaced-repetition/fsrs-optimizer-tiny) ⚠️ Archived
 * Rust
-  * Scheduler (v6) + Optimizer: [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) ⭐ 454 | 🐛 12 | 🌐 Rust | 📅 2026-10-22
+  * Scheduler (v6) + Optimizer: [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) ⭐ 454 | 🐛 12 | 🌐 Rust | 📅 2026-10-28
     * Run in browsers: [fsrs-browser](https://github.com/open-spaced-repetition/fsrs-browser) ⭐ 57 | 🐛 0 | 🌐 Rust | 📅 2026-06-14
   * Scheduler (v5): [rs-fsrs](https://github.com/open-spaced-repetition/rs-fsrs) ⭐ 51 | 🐛 3 | 🌐 Rust | 📅 2026-07-20
 * TypeScript
-  * Scheduler (v6): [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27
+  * Scheduler (v6): [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28
 * Go
-  * Scheduler (v5): [go-fsrs](https://github.com/open-spaced-repetition/go-fsrs) ⭐ 154 | 🐛 8 | 🌐 Go | 📅 2026-10-25
+  * Scheduler (v5): [go-fsrs](https://github.com/open-spaced-repetition/go-fsrs) ⭐ 155 | 🐛 9 | 🌐 Go | 📅 2026-10-25
 * Java
   * Scheduler (v5): [rs-fsrs-java](https://github.com/open-spaced-repetition/rs-fsrs-java) ⭐ 21 | 🐛 2 | 🌐 Rust | 📅 2026-02-03
 * Scala
@@ -63,7 +63,7 @@ Free and open source, content-agnostic flashcard application for Windows, Mac, L
 
 Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It imports Anki `.apkg` and `.colpkg` files with scheduling state, review history, media, tags, note types, cloze deletions and image occlusion cards intact, so decks resume on the schedule they were already on instead of resetting to new, and exports back to `.apkg`. Cards live in a local SQLite database and the review path makes no network calls, so it works offline and does not require an account. The flashcard app, FSRS-5, Anki import/export, local AI via Ollama, and offline mode are free; optional subscriptions add cloud AI generation and Mac-to-iPhone sync.
 
-* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 5,067 | 🐛 309 | 🌐 Rust | 📅 2026-10-26.
+* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 5,071 | 🐛 306 | 🌐 Rust | 📅 2026-10-28.
 * FSRS-5 is the default scheduler. SM-2 is available per deck, and switching between them does not reset progress.
 * On import, Avorio can fit FSRS parameters to your own Anki review log rather than using generic defaults.
 
@@ -71,7 +71,7 @@ Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It im
 
 Discito is a native iOS flashcard app built around FSRS-6, with iCloud sync, on-device AI card generation, lecture-audio-to-flashcards, image occlusion authoring, and full-fidelity `.apkg` import/export. One-time purchase, no subscription.
 
-Discito uses its own Swift FSRS-6 port (validated for parity against [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) ⭐ 519 | 🐛 0 | 🌐 Python | 📅 2026-08-09), with the parameter optimizer bridging [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) ⭐ 454 | 🐛 12 | 🌐 Rust | 📅 2026-10-22 via swift-bridge FFI.
+Discito uses its own Swift FSRS-6 port (validated for parity against [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs) ⭐ 519 | 🐛 0 | 🌐 Python | 📅 2026-08-09), with the parameter optimizer bridging [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) ⭐ 454 | 🐛 12 | 🌐 Rust | 📅 2026-10-28 via swift-bridge FFI.
 
 #### [Dushed](https://dushed.com/)
 
@@ -90,9 +90,9 @@ Dushed is a web app that keeps your flashcards, notes, bookmarks, web feeds, Kin
 
 #### [Etude](https://zibhelina.github.io/etude/)
 
-Etude is a free, open-source (MIT), self-hosted flashcard app where every card type is a small program. A card can generate fresh numbers to compute on every review, ask you to find the checkmate on a real board, play a chord on a piano, drag events onto a timeline, or draw a diagram; open answers can be graded by AI (your own API key, a local endpoint, or Sign in with ChatGPT), or not at all. It runs in the browser on desktop and phones (with a one-click Mac app), stores everything in a local SQLite database, and every action is also a CLI command with JSON output, so an AI agent can build and manage your decks. Source on [GitHub](https://github.com/Zibhelina/etude) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27.
+Etude is a free, open-source (MIT), self-hosted flashcard app where every card type is a small program. A card can generate fresh numbers to compute on every review, ask you to find the checkmate on a real board, play a chord on a piano, drag events onto a timeline, or draw a diagram; open answers can be graded by AI (your own API key, a local endpoint, or Sign in with ChatGPT), or not at all. It runs in the browser on desktop and phones (with a one-click Mac app), stores everything in a local SQLite database, and every action is also a CLI command with JSON output, so an AI agent can build and manage your decks. Source on [GitHub](https://github.com/Zibhelina/etude) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 for FSRS-6 scheduling, with learning steps, fuzz and per-deck retention, limits and weights.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 for FSRS-6 scheduling, with learning steps, fuzz and per-deck retention, limits and weights.
 * A deck can have an exam deadline: no card is scheduled past it, and cards you already know get one last review before it.
 * Imports Anki `.apkg` and `.colpkg` files with review history and media.
 
@@ -132,22 +132,22 @@ Markji is a flashcard application designed to help users efficiently memorize an
 
 MySummaries builds a spatial study board from a learner's own material — PDFs, slides, pasted text and photos of handwritten pages — and generates the review material from that board rather than from a shared deck. Alongside flashcards it writes timed written papers, audio lectures with word-level read-along, and a spoken oral examiner that asks follow-up questions over WebRTC and marks the transcript against a rubric. Web and iOS, free tier with usage-metered credits after that.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 for FSRS-6 scheduling with the default weights, across per-topic, per-subject and cross-subject due queues.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 for FSRS-6 scheduling with the default weights, across per-topic, per-subject and cross-subject due queues.
 * `enable_short_term: false` — a lapsed card comes back within the same session through the drill queue rather than as a sub-day `due`.
 * `enable_fuzz: true` and `maximum_interval: 365`, so a batch of cards generated together stops arriving together, and nothing is scheduled beyond a year.
 * Questions missed in a written paper or an oral are turned back into cards automatically, deduplicated against the existing deck.
 
-#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 15 | 🐛 39 | 🌐 Rust | 📅 2026-10-27
+#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 15 | 🐛 39 | 🌐 Rust | 📅 2026-10-28
 
 Open source Japanese learning app for desktop (Windows, Linux, macOS) and Android. Built-in dictionaries, kanji, grammar, and phrases — all scheduled with FSRS. Russian and English. Offline-first.
 
-* Uses [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) ⭐ 454 | 🐛 12 | 🌐 Rust | 📅 2026-10-22 for FSRS-6 scheduling.
+* Uses [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs) ⭐ 454 | 🐛 12 | 🌐 Rust | 📅 2026-10-28 for FSRS-6 scheduling.
 
 #### [Quanta](https://quanta-study.de)
 
 Quanta is an AI-powered flashcard and exam platform for German-speaking students (DACH region). It combines citation-first AI generation — where every card links to verifiable academic sources (Google Scholar, Wikipedia, textbooks) — with Bloom taxonomy control, LaTeX rendering, and MC quiz generation following Haladyna & Downing distractor guidelines.
 
-* Quanta uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 for native FSRS-6 scheduling across all review modes (classic, endless, exam simulation).
+* Quanta uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 for native FSRS-6 scheduling across all review modes (classic, endless, exam simulation).
 * AI generates flashcards from topic, PDF, photo, or URL with mandatory source declaration before card creation (≥0.90 confidence threshold).
 * Includes interactive Bloom taxonomy pyramid, Feynman method AI tutor, and 350+ German study programs with context-aware generation.
 * Free tier includes FSRS-6 spaced repetition forever (50 AI cards/month). Pro €8/mo, Evo €14/mo with student discounts.
@@ -156,8 +156,8 @@ Quanta is an AI-powered flashcard and exam platform for German-speaking students
 
 Read Frog is an AI-powered language-learning platform centered on an open-source browser extension. It turns web pages and videos into an immersive study experience with bilingual page translation, streaming selection translation, context-aware explanations and article analysis, text-to-speech, and YouTube subtitle generation and translation—even for videos without captions. Users can bring their own models from more than 20 AI providers or use Read Frog's built-in AI.
 
-* The [GPLv3-licensed browser extension](https://github.com/mengxi-ream/read-frog) ⭐ 10,199 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-26 is available for Chrome, Edge, and Firefox.
-* Its end-to-end spaced-repetition system uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 with the FSRS-6 model, middleware-based scheduling, and policy-driven review queues. A per-Notebase optimizer personalizes scheduling from review history.
+* The [GPLv3-licensed browser extension](https://github.com/mengxi-ream/read-frog) ⭐ 10,209 | 🐛 68 | 🌐 TypeScript | 📅 2026-10-27 is available for Chrome, Edge, and Firefox.
+* Its end-to-end spaced-repetition system uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 with the FSRS-6 model, middleware-based scheduling, and policy-driven review queues. A per-Notebase optimizer personalizes scheduling from review history.
 * Custom AI Actions turn selected text into reusable tools for dictionaries, explanations, rewriting, and other workflows; their structured results can be mapped directly into Notebase.
 * Vocabulary, definitions, example sentences, translations, and reading notes can be saved without leaving the current page, then converted into flashcards with customizable templates.
 * A sync engine keeps cards, review logs, and scheduling state synchronized across devices and renders review sessions from live synchronized data.
@@ -167,7 +167,7 @@ Read Frog is an AI-powered language-learning platform centered on an open-source
 
 A simple yet powerful spaced repetition system designed to help you remember more. It uses AI to automatically generate cards and FSRS-5 to schedule your reviews.
 
-Rember uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27.
+Rember uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28.
 
 #### [Revu](https://revu.cards/)
 
@@ -227,7 +227,7 @@ A personal notes, journaling, knowledge base, and project management application
 
 * [LearnKit](https://github.com/ctrlaltwill/LearnKit) ⭐ 182 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-17 helps you remember what you write. It brings flashcards, note review, tests, and AI-assisted study tools into Obsidian, so your vault becomes a place to learn, not just store information. It uses FSRS-6 for spaced repetition scheduling.
 
-* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 65 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-26 is an Anki-like spaced repetition system for Obsidian on desktop, iOS and Android, with local-first SQLite storage, free cross-device sync, Anki import (including review history) and export, AI card generation, and detailed analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27.
+* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 65 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-26 is an Anki-like spaced repetition system for Obsidian on desktop, iOS and Android, with local-first SQLite storage, free cross-device sync, Anki import (including review history) and export, AI card generation, and detailed analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28.
 
 #### [Org-srs](https://github.com/bohonghuang/org-srs) ⭐ 129 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-06-28
 
@@ -251,7 +251,7 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,965 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-27
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 46,980 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-28
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 
@@ -272,13 +272,13 @@ ZKMemo is a free, offline-first note-taking and learning software that combines 
 
 ### Incremental Reading
 
-#### [Foliole](https://github.com/campfirium/foliole) ⭐ 142 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27
+#### [Foliole](https://github.com/campfirium/foliole) ⭐ 144 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28
 
 Foliole is an approachable incremental reading app for making reading actually complete.
 
 Open source, open data, local first.
 
-Native incremental reading with integrated FSRS scheduling, powered by [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27.
+Native incremental reading with integrated FSRS scheduling, powered by [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28.
 
 ### Specialized Flashcard
 
@@ -286,7 +286,7 @@ Native incremental reading with integrated FSRS scheduling, powered by [ts-fsrs]
 
 **AI Japanese Tutor** blends voice-based Japanese verb conjugation practice with SRS-powered flashcards for JLPT N5 - N1 grammar and vocabulary.
 
-* It uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 to schedule reviews of JLPT N5 - N1 vocabulary and grammar flashcards.
+* It uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 to schedule reviews of JLPT N5 - N1 vocabulary and grammar flashcards.
 * Speech-based JLPT grammar flashcard reviews: translate English prompts into Japanese aloud, applying grammar points in context while reinforcing memory through speech.
 * [Speech-based Japanese verb conjugation practice](https://www.youtube.com/watch?v=6ehilb5dzyc) with instant feedback to strengthen active recall of verb forms and speaking confidence.
 
@@ -294,7 +294,7 @@ Native incremental reading with integrated FSRS scheduling, powered by [ts-fsrs]
 
 BiliMind Desktop is an open-source (AGPL-3.0) app that turns a folder of lecture slides, past exam papers or notes into a course: lessons, quizzes checked against the source files, a study plan and an Anki-importable deck. Each course's review schedule is dated back from the exam and exported as an `.ics` calendar; the course page shows what is due today and reschedules locally as you answer.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 5.4.2 with the default parameters (fuzz off, short-term steps on). One serialised FSRS state per item drives both the calendar export and the in-page "Due today" list.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 5.4.2 with the default parameters (fuzz off, short-term steps on). One serialised FSRS state per item drives both the calendar export and the in-page "Due today" list.
 
 #### [BrioVocab](https://briovocab.com)
 
@@ -316,7 +316,7 @@ Chessbook overhauled its spaced repetition system [using FSRS-4.5](https://x.com
 
 Gnoseed is a web flashcard app (installable as a PWA) for engineers studying DevOps, AI\&LLM, Cloud, Security and certification topics. It has more than 6,600+ ready-made multiple-choice cards in 70+ decks, plus open-answer interview decks. Free; it works offline and without an account, and an optional Google sign-in syncs progress across devices.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 with the FSRS-6 default weights and 90% desired retention; no per-user optimizer runs. FSRS is the default for new installs, SM-2 is selectable behind the same adapter, and switching resets scheduling state.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 with the FSRS-6 default weights and 90% desired retention; no per-user optimizer runs. FSRS is the default for new installs, SM-2 is selectable behind the same adapter, and switching resets scheduling state.
 * No rating buttons in multiple-choice mode: a wrong answer is `Again`, a correct one is `Easy`, `Good` or `Hard` by answer time (4 s and 10 s by default, longer for scenario decks). In recall mode the options are hidden and the learner grades themselves: "I knew it" is `Good`, "I didn't know" is `Again`.
 * [How Gnoseed schedules with FSRS](https://gnoseed.com/algorithms/fsrs), with an interval calculator.
 
@@ -339,7 +339,7 @@ Japanese Learning is a web course for German speakers preparing for JLPT N5: les
 
 **Jiaci** is an open-source web app for Chinese speakers learning English vocabulary: pick a built-in word list (IELTS, TOEFL, GRE, CET, academic and everyday-life lists) or import your own, study a daily queue of cards, and rate each one *know* / *fuzzy*.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 to schedule reviews (no learning steps, day-level scheduling); a word whose scheduled interval reaches a configurable threshold is marked mastered.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 to schedule reviews (no learning steps, day-level scheduling); a word whose scheduled interval reaches a configurable threshold is marked mastered.
 * Chinese UI only. [Source on GitHub](https://github.com/leoon-hu/jiaci) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 (MIT; Next.js + PostgreSQL).
 * Word entries (core meaning, senses, examples, collocations, word family, mnemonics, etymology) are pre-generated offline by an LLM and shared by all users; server-side neural TTS for words, examples and definitions.
 
@@ -347,7 +347,7 @@ Japanese Learning is a web course for German speakers preparing for JLPT N5: les
 
 Jolito is a calm, beautifully crafted Spanish vocabulary and grammar app designed as the antidote to clunky "tax-software" flashcards and bloated freemium gamification. It offers a distraction-free, tactile study experience with high-fidelity Mexican Spanish audio, seamless cross-device cloud sync, and zero recurring subscriptions or ads (free on the web, one-time purchase on mobile).
 
-* **FSRS Memory Engine:** Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 client-side to eliminate SM-2 ease decay on irregular grammar conjugations, with automatic bidirectional sibling burying.
+* **FSRS Memory Engine:** Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 client-side to eliminate SM-2 ease decay on irregular grammar conjugations, with automatic bidirectional sibling burying.
 * **Simplicity Above All:** Fast, clutter-free practice sessions with fluid gestures, keyboard-first navigation, and zero cognitive overhead.
 * **Studio Audio & Spoken Recall:** High-fidelity neural pronunciation and speech evaluation, aggressively pre-cached for instant offline study.
 * **Local-First & Multi-Device:** Instant cross-device cloud sync and lossless Anki `.apkg` imports, available on Web, iOS, and Android.
@@ -395,7 +395,7 @@ LinGoat is an AI-powered language learning app that scores every word and gramma
 
 MemPro is a web app for learning programming with spaced repetition. Besides concept cards, it has code exercises: you write C++, Python, Rust, TypeScript or Zig in the browser, and a sandbox runs tests against your solution. You then rate how well you remembered the card.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 for FSRS-6 scheduling with the default weights and 90% desired retention, at day granularity (short-term steps off).
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 for FSRS-6 scheduling with the default weights and 90% desired retention, at day granularity (short-term steps off).
 * All topics are free to study. With a subscription, you can create your own topics, decks and cards in an editor or through an MCP server for Claude Code and Cursor.
 
 #### [Ordkort](https://ordkort.com)
@@ -409,7 +409,7 @@ Ordkort is a free, open-source ([AGPL-3.0](https://github.com/silicq/ordkort) �
 
 RePoker is a preflop trainer for No-Limit Texas Hold'em on iOS and Android. Players study complete 13x13 preflop range charts (opens, big-blind defense and 3-bet defense, including mixed strategies), then practice their own decisions in simulated hands. It is a study tool with no real-money play.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 v5 (FSRS-6 default weights, no per-user optimizer) with 90% desired retention, short-term steps and fuzz enabled, and a 365-day maximum interval.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 v5 (FSRS-6 default weights, no per-user optimizer) with 90% desired retention, short-term steps and fuzz enabled, and a 365-day maximum interval.
 * No rating buttons. In Learn (preflop range study), a correct answer within the time limit (7 seconds by default, adjustable per deck) is `Easy` unless the previous review was `Again` or `Hard`; any other correct answer is `Good`, and a wrong answer is `Again`. `Hard` is never produced.
 * In Practice (simulated hands), grading has two levels and ignores time: getting the whole action line right is `Good`, anything else is `Again`.
 * Progress is stored on device and core training works offline.
@@ -427,7 +427,7 @@ Rhythm Word implements FSRS-4.5 for intelligent review scheduling.
 
 Smort is an iPhone app for language learners who understand more than they can say. You talk out loud with Smort, an AI conversation partner, keep the words you want from each chat as flashcards, and answer them out loud from memory. It also imports Anki `.apkg` decks, with the study progress it supports.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 (FSRS-6) on the device, through JavaScriptCore, at 90% desired retention by default.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 (FSRS-6) on the device, through JavaScriptCore, at 90% desired retention by default.
 * Each answer gets a grade, from Smort's answer check or from the learner, and the grade becomes the FSRS rating.
 * Paid app (Smort Plus), with a 7-day free trial. iPhone, iOS 26.4 or later.
 
@@ -437,7 +437,7 @@ Available on [App Store](https://apps.apple.com/app/id6789021306).
 
 Verbamor is an iOS app for people who take language lessons or have real conversations in a new language. It records the lesson, transcribes it, and turns the words and phrases you met into flashcards, each with a picture, an example sentence and audio. It covers Spanish, French, Italian, Portuguese and Russian.
 
-* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 (FSRS-6) at 90% desired retention to schedule every card.
+* Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 835 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 (FSRS-6) at 90% desired retention to schedule every card.
 * A nightly job refits each learner's FSRS-6 parameters from their own review history once they have enough reviews, and keeps the new parameters only when they fit better.
 * Cards come from your own lessons, plus a starter deck of about 650 common words in each language.
 * Paid app, with a 7-day free trial on the annual plan. iPhone, iPad and Apple Watch.
@@ -453,7 +453,7 @@ Word2Sentence is a local-first Windows desktop app for learning vocabulary throu
 
 #### [WordVault](https://aerolith.org/wordvault/)
 
-WordVault is a word study app for Scrabble/Boggle/other word games. It [uses the Go FSRS library](https://github.com/open-spaced-repetition/go-fsrs) ⭐ 154 | 🐛 8 | 🌐 Go | 📅 2026-10-25 for scheduling words, which show up as scrambled letters for the user to solve. This should hopefully be significally more efficient than the Leitner cardbox system previously in use in some word study apps.
+WordVault is a word study app for Scrabble/Boggle/other word games. It [uses the Go FSRS library](https://github.com/open-spaced-repetition/go-fsrs) ⭐ 155 | 🐛 9 | 🌐 Go | 📅 2026-10-25 for scheduling words, which show up as scrambled letters for the user to solve. This should hopefully be significally more efficient than the Leitner cardbox system previously in use in some word study apps.
 
 See [announcement blog post](https://cesardelsolar.com/posts/2024-10-13-wordvault/).
 
@@ -517,4 +517,4 @@ Leitner sytem sorts flashcard into groups according to how well the learner know
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
