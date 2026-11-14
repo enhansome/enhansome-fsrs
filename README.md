@@ -64,7 +64,7 @@ Free and open source, content-agnostic flashcard application for Windows, Mac, L
 
 Avorio is a native flashcard app for macOS and iPhone built around FSRS-5. It imports Anki `.apkg` and `.colpkg` files with scheduling state, review history, media, tags, note types, cloze deletions and image occlusion cards intact, so decks resume on the schedule they were already on instead of resetting to new, and exports back to `.apkg`. Cards live in a local SQLite database and the review path makes no network calls, so it works offline and does not require an account. The flashcard app, FSRS-5, Anki import/export, local AI via Ollama, and offline mode are free; optional subscriptions add cloud AI generation and Mac-to-iPhone sync.
 
-* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 5,134 | 🐛 307 | 🌐 Rust | 📅 2026-11-12.
+* Avorio uses its own FSRS-5 implementation in a shared Rust core, exposed to SwiftUI through [UniFFI](https://github.com/mozilla/uniffi-rs) ⭐ 5,137 | 🐛 307 | 🌐 Rust | 📅 2026-11-12.
 * FSRS-5 is the default scheduler. SM-2 is available per deck, and switching between them does not reset progress.
 * On import, Avorio can fit FSRS parameters to your own Anki review log rather than using generic defaults.
 
@@ -119,7 +119,7 @@ Dushed is a web app that keeps your flashcards, notes, bookmarks, web feeds, Kin
 
 #### [Etude](https://zibhelina.github.io/etude/)
 
-Etude is a free, open-source (MIT), self-hosted flashcard app where every card type is a small program. A card can generate fresh numbers to compute on every review, ask you to find the checkmate on a real board, play a chord on a piano, drag events onto a timeline, or draw a diagram; open answers can be graded by AI (your own API key, a local endpoint, or Sign in with ChatGPT), or not at all. It runs in the browser on desktop and phones (with a one-click Mac app), stores everything in a local SQLite database, and every action is also a CLI command with JSON output, so an AI agent can build and manage your decks. Source on [GitHub](https://github.com/Zibhelina/etude) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11.
+Etude is a free, open-source (MIT), self-hosted flashcard app where every card type is a small program. A card can generate fresh numbers to compute on every review, ask you to find the checkmate on a real board, play a chord on a piano, drag events onto a timeline, or draw a diagram; open answers can be graded by AI (your own API key, a local endpoint, or Sign in with ChatGPT), or not at all. It runs in the browser on desktop and phones (with a one-click Mac app), stores everything in a local SQLite database, and every action is also a CLI command with JSON output, so an AI agent can build and manage your decks. Source on [GitHub](https://github.com/Zibhelina/etude) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11.
 
 * Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 872 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 for FSRS-6 scheduling, with learning steps, fuzz and per-deck retention, limits and weights.
 * A deck can have an exam deadline: no card is scheduled past it, and cards you already know get one last review before it.
@@ -174,7 +174,7 @@ MySummaries builds a spatial study board from a learner's own material — PDFs,
 * `enable_fuzz: true` and `maximum_interval: 365`, so a batch of cards generated together stops arriving together, and nothing is scheduled beyond a year.
 * Questions missed in a written paper or an oral are turned back into cards automatically, deduplicated against the existing deck.
 
-#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 20 | 🐛 39 | 🌐 Rust | 📅 2026-11-13
+#### [Origa](https://github.com/yurvon-screamo/origa) ⭐ 20 | 🐛 39 | 🌐 Rust | 📅 2026-11-14
 
 Open source Japanese learning app for desktop (Windows, Linux, macOS) and Android. Built-in dictionaries, kanji, grammar, and phrases — all scheduled with FSRS. Russian and English. Offline-first.
 
@@ -193,7 +193,7 @@ Quanta is an AI-powered flashcard and exam platform for German-speaking students
 
 Read Frog is an AI-powered language-learning platform centered on an open-source browser extension. It turns web pages and videos into an immersive study experience with bilingual page translation, streaming selection translation, context-aware explanations and article analysis, text-to-speech, and YouTube subtitle generation and translation—even for videos without captions. Users can bring their own models from more than 20 AI providers or use Read Frog's built-in AI.
 
-* The [GPLv3-licensed browser extension](https://github.com/mengxi-ream/read-frog) ⭐ 10,419 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-13 is available for Chrome, Edge, and Firefox.
+* The [GPLv3-licensed browser extension](https://github.com/mengxi-ream/read-frog) ⭐ 10,428 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-14 is available for Chrome, Edge, and Firefox.
 * Its end-to-end spaced-repetition system uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 872 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 with the FSRS-7 model, middleware-based scheduling, and policy-driven review queues. A per-Notebase optimizer personalizes scheduling from review history.
 * Custom AI Actions turn selected text into reusable tools for dictionaries, explanations, rewriting, and other workflows; their structured results can be mapped directly into Notebase.
 * Vocabulary, definitions, example sentences, translations, and reading notes can be saved without leaving the current page, then converted into flashcards with customizable templates.
@@ -264,7 +264,7 @@ A personal notes, journaling, knowledge base, and project management application
 
 * [LearnKit](https://github.com/ctrlaltwill/LearnKit) ⭐ 183 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-31 helps you remember what you write. It brings flashcards, note review, tests, and AI-assisted study tools into Obsidian, so your vault becomes a place to learn, not just store information. It uses FSRS-6 for spaced repetition scheduling.
 
-* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 66 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-09 is an Anki-like spaced repetition system for Obsidian on desktop, iOS and Android, with local-first SQLite storage, free cross-device sync, Anki import (including review history) and export, AI card generation, and detailed analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 872 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13.
+* [True Recall](https://github.com/pieralukasz/true-recall) ⭐ 67 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 is an Anki-like spaced repetition system for Obsidian on desktop, iOS and Android, with local-first SQLite storage, free cross-device sync, Anki import (including review history) and export, AI card generation, and detailed analytics. It uses FSRS-6 via [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 872 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13.
 
 #### [Org-srs](https://github.com/bohonghuang/org-srs) ⭐ 129 | 🐛 11 | 🌐 Emacs Lisp | 📅 2026-06-28
 
@@ -288,13 +288,13 @@ Multiplatform note-taking application with a simple and streamlined process of c
 
 RemNote integrated FSRS-4.5 into its scheduling system in [release 1.16](https://feedback.remnote.com/changelog/remnote-1-16-ultimate-spaced-repetition).
 
-#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,218 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-13
+#### [SiYuan](https://github.com/siyuan-note/siyuan) ⭐ 47,226 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-14
 
 SiYuan is a privacy-first, self-hosted, open source personal knowledge management system, written in TypeScript and Golang. It supports fine-grained block-level reference and markdown WYSIWYG.
 
 SiYuan's uses FSRS-5: [riff](https://github.com/siyuan-note/riff) ⭐ 49 | 🐛 0 | 🌐 Go | 📅 2026-10-27
 
-#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,709 | 🐛 1,207 | 🌐 JavaScript | 📅 2026-11-11
+#### [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) ⭐ 8,710 | 🐛 1,207 | 🌐 JavaScript | 📅 2026-11-11
 
 TiddlyWiki is a customizable single HTML file personal wiki for creating interlinked notes. Its open-source nature and plugin ecosystem make it adaptable for various uses, from project management to knowledge systems. With the FSRS plugin, TiddlyWiki can also be used as a flashcard app for learning and memorization.
 
@@ -318,7 +318,7 @@ Bundle is a read-later app for iPhone that helps you remember what you read. You
 * Fuzz follows py-fsrs, so cards from the same article don't all come back on the same day.
 * A free [FSRS simulator](https://bundle.ink/tools/fsrs) shows how the intervals grow with each answer.
 
-#### [Foliole](https://github.com/campfirium/foliole) ⭐ 149 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-13
+#### [Foliole](https://github.com/campfirium/foliole) ⭐ 150 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-14
 
 Foliole is an approachable incremental reading app for making reading actually complete.
 
@@ -386,7 +386,7 @@ Japanese Learning is a web course for German speakers preparing for JLPT N5: les
 **Jiaci** is an open-source web app for Chinese speakers learning English vocabulary: pick a built-in word list (IELTS, TOEFL, GRE, CET, academic and everyday-life lists) or import your own, study a daily queue of cards, and rate each one *know* / *fuzzy*.
 
 * Uses [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) ⭐ 872 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 to schedule reviews (no learning steps, day-level scheduling); a word whose scheduled interval reaches a configurable threshold is marked mastered.
-* Chinese UI only. [Source on GitHub](https://github.com/leoon-hu/jiaci) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13 (MIT; Next.js + PostgreSQL).
+* Chinese UI only. [Source on GitHub](https://github.com/leoon-hu/jiaci) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13 (MIT; Next.js + PostgreSQL).
 * Word entries (core meaning, senses, examples, collocations, word family, mnemonics, etymology) are pre-generated offline by an LLM and shared by all users; server-side neural TTS for words, examples and definitions.
 
 #### [Jolito](https://github.com/smolkaj/jolito) ⭐ 1 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-13
@@ -590,4 +590,4 @@ Leitner sytem sorts flashcard into groups according to how well the learner know
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
