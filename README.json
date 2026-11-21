@@ -156,7 +156,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -203,8 +203,8 @@
                 "id": 679353662,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T03:50:11Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-21T05:17:00Z",
+                "open_issues": 5,
                 "owner": "open-spaced-repetition",
                 "repo": "fsrs-rs",
                 "stars": 463,
@@ -265,7 +265,7 @@
                 "open_issues": 3,
                 "owner": "open-spaced-repetition",
                 "repo": "ts-fsrs",
-                "stars": 884,
+                "stars": 887,
                 "topics": [
                   "fsrs",
                   "open-spaced-repetition",
@@ -296,11 +296,11 @@
                 "id": 506068983,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-17T20:27:09Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-21T05:55:15Z",
+                "open_issues": 10,
                 "owner": "open-spaced-repetition",
                 "repo": "go-fsrs",
-                "stars": 158,
+                "stars": 159,
                 "topics": [
                   "fsrs",
                   "go",
@@ -743,10 +743,10 @@
                     "language": "Rust",
                     "license": "MPL-2.0",
                     "last_commit": "2026-11-20T14:50:01Z",
-                    "open_issues": 308,
+                    "open_issues": 309,
                     "owner": "mozilla",
                     "repo": "uniffi-rs",
-                    "stars": 5150,
+                    "stars": 5151,
                     "topics": [
                       "ffi-layer",
                       "rust-crate"
@@ -805,7 +805,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -840,7 +840,7 @@
                     "open_issues": 0,
                     "owner": "Zibhelina",
                     "repo": "etude",
-                    "stars": 23,
+                    "stars": 25,
                     "topics": [
                       "anki",
                       "flashcards",
@@ -867,7 +867,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -934,7 +934,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1001,7 +1001,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1032,8 +1032,8 @@
                     "id": 679353662,
                     "language": "Rust",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-18T03:50:11Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-21T05:17:00Z",
+                    "open_issues": 5,
                     "owner": "open-spaced-repetition",
                     "repo": "fsrs-rs",
                     "stars": 463,
@@ -1056,8 +1056,8 @@
                 "id": 1068530013,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T03:53:15Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-21T17:22:26Z",
+                "open_issues": 43,
                 "owner": "yurvon-screamo",
                 "repo": "origa",
                 "stars": 20,
@@ -1090,8 +1090,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Quanta uses ts-fsrs",
-                  "description": "for native FSRS-6 scheduling across all review modes (classic, endless, exam simulation).",
+                  "title": "Uses ts-fsrs",
+                  "description": "for FSRS-6 scheduling. Three review ratings map to Again, Hard and Good; the scheduler is configured with 90% desired retention and interval fuzzing.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1104,7 +1104,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1117,9 +1117,9 @@
                   "first_seen": "2026-08-28T21:12:30.581Z"
                 }
               ],
-              "description": "Quanta is an AI-powered flashcard and exam platform for German-speaking students (DACH region). It combines citation-first AI generation — where every card links to verifiable academic sources (Google Scholar, Wikipedia, textbooks) — with Bloom taxonomy control, LaTeX rendering, and MC quiz generation following Haladyna & Downing distractor guidelines.",
+              "description": "Quanta Study is a browser-based flashcard and exam-preparation app. Learners can create cards manually or use AI-assisted authoring from study documents. Source references help learners check generated material; the app also supports LaTeX and multiple-choice quizzes.",
               "node_type": "group",
-              "title": "Quanta"
+              "title": "Quanta Study"
             },
             {
               "children": [
@@ -1135,11 +1135,11 @@
                     "id": 967738751,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-20T17:50:56Z",
-                    "open_issues": 66,
+                    "last_commit": "2026-11-21T17:27:58Z",
+                    "open_issues": 62,
                     "owner": "mengxi-ream",
                     "repo": "read-frog",
-                    "stars": 10499,
+                    "stars": 10501,
                     "topics": [
                       "anki",
                       "bilingual-subtitles",
@@ -1181,7 +1181,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "wpwilson10",
                 "repo": "spacedrep",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "anki",
                   "cli",
@@ -1359,7 +1359,7 @@
                     "open_issues": 20,
                     "owner": "ctrlaltwill",
                     "repo": "LearnKit",
-                    "stars": 185,
+                    "stars": 186,
                     "topics": [
                       "anki",
                       "education",
@@ -1472,11 +1472,11 @@
                 "id": 291438522,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T17:50:17Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-21T17:28:34Z",
+                "open_issues": 5,
                 "owner": "siyuan-note",
                 "repo": "siyuan",
-                "stars": 47307,
+                "stars": 47324,
                 "topics": [
                   "agentic-ai",
                   "ai-agent",
@@ -1505,8 +1505,8 @@
                 "id": 2828239,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T10:31:18Z",
-                "open_issues": 1191,
+                "last_commit": "2026-11-21T09:47:50Z",
+                "open_issues": 1190,
                 "owner": "TiddlyWiki",
                 "repo": "TiddlyWiki5",
                 "stars": 8711,
@@ -1603,7 +1603,7 @@
                 "id": 1019204023,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T13:52:43Z",
+                "last_commit": "2026-11-21T14:30:10Z",
                 "open_issues": 12,
                 "owner": "campfirium",
                 "repo": "foliole",
@@ -1647,7 +1647,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1682,7 +1682,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1745,7 +1745,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1833,7 +1833,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1905,7 +1905,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -1999,7 +1999,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2034,7 +2034,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2069,7 +2069,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2104,7 +2104,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2139,7 +2139,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2174,7 +2174,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2209,7 +2209,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2244,7 +2244,7 @@
                     "open_issues": 3,
                     "owner": "open-spaced-repetition",
                     "repo": "ts-fsrs",
-                    "stars": 884,
+                    "stars": 887,
                     "topics": [
                       "fsrs",
                       "open-spaced-repetition",
@@ -2313,7 +2313,7 @@
                     "open_issues": 18,
                     "owner": "open-spaced-repetition",
                     "repo": "srs-benchmark",
-                    "stars": 293,
+                    "stars": 295,
                     "topics": [
                       "benchmark",
                       "deep-learning",
@@ -2381,7 +2381,7 @@
                         "open_issues": 0,
                         "owner": "maimemo",
                         "repo": "SSP-MMC-Plus",
-                        "stars": 74,
+                        "stars": 75,
                         "topics": [
                           "paper",
                           "reproducibility",
@@ -2456,7 +2456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:36:14.721Z",
+    "last_updated": "2026-11-21T17:31:08.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome FSRS implementations, papers and resources",
@@ -2464,11 +2464,11 @@
       "id": 853732915,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-20T10:40:38Z",
-      "open_issues": 8,
+      "last_commit": "2026-11-21T07:36:58Z",
+      "open_issues": 9,
       "owner": "open-spaced-repetition",
       "repo": "awesome-fsrs",
-      "stars": 775,
+      "stars": 779,
       "topics": [
         "awesome-list",
         "fsrs",
@@ -2479,7 +2479,7 @@
         "spaced-repetition-scheduler"
       ]
     },
-    "original_repository_sha": "f83607220f1eb504fd0ccdba3055ba25c39bc4d6",
+    "original_repository_sha": "caf6d60b7904d35735b5193add1355c649ec4041",
     "enhanced_repository": "enhansome/enhansome-fsrs",
     "enhanced_repository_description": null,
     "title": "Awesome FSRS with stars"
